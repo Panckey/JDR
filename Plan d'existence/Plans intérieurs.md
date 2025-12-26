@@ -23,3 +23,5 @@ Ces plans sont faits d’éléments bruts :
 ### ✴️ **Plans quasi-élémentaires** (entre élément et énergie)
 
 - Par exemple : _Radiance, Ash, Dust, Salt, Vacuum_
+
+[[Plans d'existences.canvas|Plans d'existences]]
