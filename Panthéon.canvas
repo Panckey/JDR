@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"eb1143be5fac9f07","x":1454,"y":-465,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Raciaux/Yondalla.md"},
+		{"id":"b1f312e6ad98f49f","x":-560,"y":560,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Bon/Chauntea.md"},
+		{"id":"68018895d33a91e6","x":27,"y":612,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Bon/Ilmater.md"},
+		{"id":"799515adc054eb40","x":-560,"y":1161,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Bon/Lathander.md"},
+		{"id":"d409499682c65151","x":102,"y":1161,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Bon/Selûne.md"},
+		{"id":"debf14c1d0e75560","x":-5048,"y":-1506,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Bon/Torm.md"},
+		{"id":"5cea12fb067cd256","x":-5124,"y":1161,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Bon/Tyr.md"},
+		{"id":"7edca1e198367a3f","x":3701,"y":-3296,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Mauvais/Bane.md"},
+		{"id":"6d64856bedc652fe","x":3181,"y":-1138,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Mauvais/Bhaal.md"},
+		{"id":"ee8b79a2f6f4c456","x":4705,"y":2596,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Mauvais/Cyric.md"},
+		{"id":"58e74e9cb12a4e5f","x":-4820,"y":2990,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Mauvais/Lolth.md"},
+		{"id":"41d8a0c145854357","x":-578,"y":4006,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Mauvais/Myrkul.md"},
+		{"id":"67e6013be23fcf8d","x":3181,"y":4615,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Mauvais/Shar.md"},
+		{"id":"cc7ede5d9e08d36b","x":-2826,"y":-1519,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Neutre/Helm.md"},
+		{"id":"9a90930518bbdbba","x":-1950,"y":-3131,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Neutre/Kelemvor.md"},
+		{"id":"c96d9718a66f0821","x":857,"y":-1938,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Neutre/Mystra.md"},
+		{"id":"12b4cf95a4e9cc6a","x":2546,"y":386,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Neutre/Oghma.md"},
+		{"id":"197c4f28734dfe7d","x":-2572,"y":1961,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Neutre/Silvanus.md"},
+		{"id":"cfcae5e6d99573cb","x":933,"y":2812,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Neutre/Tempus.md"},
+		{"id":"94dce2f159e9fcbf","x":-3474,"y":3294,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Raciaux/Corellon Larethian.md"},
+		{"id":"49b8e3fe562a6bc4","x":-3093,"y":399,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Raciaux/Gruumsh.md"},
+		{"id":"6ef17b3e57e00cc0","x":-1416,"y":-338,"width":400,"height":400,"type":"file","file":"JDR/Dieux/Raciaux/Moradin.md"}
+	],
+	"edges":[]
+}
