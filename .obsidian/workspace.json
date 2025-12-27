@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Artificier/Sous Classe Forgeron de bataille.md",
+                "file": "Classes/Dilettante/Disciplines 🤖📝 et moi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sous Classe Forgeron de bataille"
+              "title": "Disciplines 🤖📝 et moi"
             }
           }
         ]
@@ -185,17 +185,29 @@
   },
   "active": "642cc6849b22c39c",
   "lastOpenFiles": [
-    "Pasted image 20251226220509.png",
-    "Classes/Artificier/Sous Classe Artilleur.md",
-    "Pasted image 20251226220337.png",
-    "Classes/Artificier/Sous Classe Armurier.md",
-    "Pasted image 20251226220149.png",
-    "Classes/Artificier/Sous Classe Alchimiste.md",
-    "Pasted image 20251226220050.png",
-    "Classes/Barbare/Sous Classe Voie de l’arbre-monde.md",
-    "Classes/Artificier/Sous Classe Forgeron de bataille.md",
+    "Classes/Dilettante/Dilettante 🤖📝et moi.md",
+    "Classes/Dilettante/Disciplines 🤖📝 et moi.md",
+    "Classes/Magicien/Magicien.md",
+    "Classes/Guerrier/Guerrier.md",
+    "Classes/Ensorceleur/Ensorceleur.md",
     "Classes/Barbare/Barbare.md",
-    "Classes/Artificier/Artificier.md",
+    "Classes/Barde/Barde.md",
+    "Classes/Artificier/Artificier 🤖📝.md",
+    "Classes/Dilettante",
+    "Classes/Clerc/Clerc.md",
+    "Classes/Druide/Druide.md",
+    "Classes/Artificier/Sous Classe Forgeron de bataille 🤖📝.md",
+    "Classes/Artificier/Sous Classe Artilleur 🤖📝.md",
+    "Classes/Artificier/Sous Classe Armurier 🤖📝.md",
+    "Classes/Artificier/Sous Classe Alchimiste 🤖📝.md",
+    "Pasted image 20251226230538.png",
+    "Classes/Roublard/Sous Classe Arcane Trickster.md",
+    "Classes/Barbare/Sous Classe Voie de l’arbre-monde.md",
+    "Classes/Clerc/Sorts.md",
+    "Pasted image 20251226220509.png",
+    "Pasted image 20251226220337.png",
+    "Pasted image 20251226220149.png",
+    "Pasted image 20251226220050.png",
     "Pasted image 20251226215235.png",
     "Pasted image 20251226215221.png",
     "Classes/Moine/Moine.md",
@@ -207,15 +219,6 @@
     "Classes/Paladin/Sorts.md",
     "Classes/Paladin/Sous Classe Le Paladin déchu — L’Oathbreaker.md",
     "Classes/Paladin/Sous Classe Serment des Anciens.md",
-    "Classes/Paladin/L’Oathbreaker.md",
-    "Classes/Paladin/Sous Classe Serment de Vengeance.md",
-    "Classes/Paladin/Sous Classe Serment de Gloire.md",
-    "Classes/Paladin/Sous Classe Serment de Dévotion.md",
-    "Classes/Rôdeur/Rôdeur.md",
-    "Classes/Rôdeur/Sorts.md",
-    "Classes/Rôdeur/Sous Classe Chasseur.md",
-    "Classes/Rôdeur/Sous Classe Traqueur des ombres.md",
-    "Classes/Rôdeur/Sous Classe Vagabond féérique.md",
     "Classes/Rôdeur",
     "Classes/Druide",
     "Classes/Barbare",
@@ -225,11 +228,8 @@
     "Classes/Artificier",
     "Classes/Guerrier",
     "Classes/Untitled 11",
-    "Classes/Untitled 10",
     "Pasted image 20251226201020.png",
     "Pasted image 20251226200958.png",
-    "Pasted image 20251226195741.png",
-    "Pasted image 20251226195510.png",
-    "Pasted image 20251226195502.png"
+    "Pasted image 20251226195741.png"
   ]
 }
