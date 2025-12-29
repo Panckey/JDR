@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Sorts.md",
+                "file": "Bestiaire/Bestiaire classique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorts"
+              "title": "Bestiaire classique"
             }
           }
         ]
@@ -183,8 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e3b2615763af8751",
+  "active": "40d5c0cf8cc3886e",
   "lastOpenFiles": [
+    "Bestiaire/Note.md",
+    "Race/Eladrin.md",
+    "Classes/Sorts.md",
     "Classes/Roublard/Sous Classe Voleur.md",
     "Classes/Roublard/Sous Classe Lame de l’âme (Soulknife).md",
     "Classes/Roublard/Sous Classe Assassin.md",
@@ -208,17 +211,14 @@
     "Classes/Occultiste/Sous Classe Grand Ancien.md",
     "Classes/Occultiste/Sorts.md",
     "Classes/Moine/Sous Classe Guerrier des Éléments.md",
-    "Classes/Moine/Sous Classe Guerrier de la Miséricorde.md",
-    "Classes/Moine/Sous Classe Guerrier de la Main Ouverte.md",
-    "Classes/Moine/Sous Classe Guerrier de l’Ombre.md",
     "Pasted image 20251226182841.png",
-    "Joueur/Fiche/Personnage",
+    "Jeu/Fiche/Personnage",
     "Bestiaire/Bestiaire personnalisé",
     "Bestiaire/Bestiaire classique",
     "Bestiaire",
     "Joueur/Sans titre",
-    "Joueur/Fiche",
-    "Joueur",
+    "Jeu/Fiche",
+    "Jeu",
     "Plan d'existence/Plans d'existences.canvas",
     "Dieux/Panthéon.canvas",
     "regles que j'ai trouver ( lien)",
