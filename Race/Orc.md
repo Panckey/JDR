@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Orcs dans DnD
 
 Les **orcs** sont de grands humanoïdes à la peau grise et aux défenses proéminentes, dont la carrure imposante évoque la force brute et la résistance des montagnes. Leurs traits puissants, hérités du dieu Gruumsh, traduisent à la fois la fierté et la rudesse de leur nature. Bien que leur apparence varie légèrement selon les clans et les régions, tous partagent cette aura farouche de guerriers forgés pour survivre et dominer les terres sauvages.

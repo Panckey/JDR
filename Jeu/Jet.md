@@ -1,3 +1,4 @@
+[[MJ]]
 # ⚔️ LES JETS EN COMBAT D&D 5e
 
 Il y a **3 grands types de jets** :

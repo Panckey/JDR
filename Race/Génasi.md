@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Génasis dans D&D
 
 _Votre personnage génasi a certaines caractéristiques communes avec tous les autres génasis._

@@ -349,3 +349,6 @@ Les vrais bardes sont rares dans le monde. Les bardes qui chantent dans les tave
 ### Les bardes aventuriers
 
 En de rares occasions, un barde s’enracinera à un endroit. Leur attirance innée pour voyager, découvrir de nouvelles histoires, acquérir de nouvelles compétences et faire de nouvelles découvertes à travers les horizons incline les bardes à une vie d’aventure. Chaque aventure offre l’opportunité d’apprendre, de pratiquer une gamme de compétences, d’entrer dans des tombes oubliées, de découvrir des œuvres magiques perdues, de déchiffrer de vieux livres, de voyager dans des terres étranges ou de rencontrer des créatures extraterrestres. Les bardes aiment accompagner les héros afin de devenir les témoins privilégiés de leurs exploits. Un barde qui a vécu ces événements parvient lui-même à raconter une histoire impressionnante, ce qui augmente sa popularité auprès des autres bardes. En effet, après avoir raconté autant de récits rapportant les exploits réalisés par des héros, plusieurs bardes prennent ces thèmes à cœur jusqu’à devenir eux-mêmes des héros.
+
+
+[[Classes]]

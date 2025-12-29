@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Humains dans DnD
 
 En raison de leur préférence pour la migration et la conquête, il y a plus de diversité physique parmi les humains que les autres races communes.

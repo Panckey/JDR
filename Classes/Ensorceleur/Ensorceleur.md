@@ -513,3 +513,6 @@ Les ensorceleurs, contrairement aux magiciens, ne font pas usage de grimoires ou
 Les ensorceleurs se font rares dans le monde, et il est inhabituel de rencontrer un ensorceleur qui ne s’adonne pas à une vie d’aventures. Les personnes avec une telle puissance magique bouillonnante dans leurs veines découvrent rapidement que cette puissance n’apprécient pas la quiétude. La magie d’un ensorceleur veut être maniée et elle a tendance à jaillir de manière imprévisible si on ne l’interpelle pas.
 
 Les ensorceleurs se lancent souvent à l’aventure pour des motifs obscurs ou chimériques. Certains cherchent à mieux comprendre la force magique qui les habite ou la réponse au mystère de son origine. D’autres espèrent trouver un manière de s’en défaire ou d’en exploiter le plein potentiel. Quels que soient leurs buts, les ensorceleurs sont tout aussi utiles à une compagnie d’aventuriers que peut l’être le magicien. Ils compensent leurs lacunes en connaissances magiques par une impressionnante flexibilité lors de l’usage de leurs sorts.
+
+
+[[Classes]]

@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Drakéides dans DnD
 
 Les drakéides ressemblent beaucoup à des dragons sous forme humanoïde, bien qu’ils leurs manquent des ailes et une queue. Les premiers drakéides avaient des écailles de teintes vives correspondant aux couleurs de leurs parents draconiques, mais des générations de croisements ont créé une apparence plus uniforme.

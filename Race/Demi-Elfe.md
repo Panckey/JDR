@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Demi-Elfes dans D&D
 
 Pour les humains, un demi-elfe ressemble à un elfe, et pour un elfe il paraît humain. Bien qu’ils soient par la taille proche de leurs parents, ils ne sont jamais aussi sveltes que les elfes ou aussi robustes que les humains.

@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Nains dans DnD
 
 Téméraires et résistants malgré leur taille ne dépassant pas 1,50 mètre, les nains sont larges et compacts au point de peser autant qu’un humain mesurant près d’un mètre de plus.

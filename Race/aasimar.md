@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Aasimar dans DnD
 
 Les Aasimars sont des mortels marqués par une ascendance céleste, portant en eux la lumière des plans supérieurs. Leur apparence reste proche de celle de leurs parents mortels, mais leur nature divine transparaît à travers des traits surnaturels : des yeux lumineux, une peau irisée, ou un éclat doré semblant émaner d’eux.

@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Elfes dans DnD
 
 Avec leur grâce surnaturelle et leurs traits fins, les elfes paraissent d’une beauté envoûtante aux yeux des humains et des membres des autres races.

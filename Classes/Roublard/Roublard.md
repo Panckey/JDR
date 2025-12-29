@@ -461,3 +461,6 @@ Son indépendance est légendaire. Le roublard peut survivre seul des semaines e
 Les roublards découvrent vite que, même s’ils roulent des yeux devant les paladins trop bruyants, les bardes trop bavards ou les barbares trop enthousiastes, ces compagnons peuvent être des atouts précieux. Le paladin attire l’attention pendant qu’ils se faufilent. Le mage éclaire le terrain pendant qu’ils observent depuis les ombres. Le barbare crée le chaos parfait pour une Attaque sournoise bien placée.
 
 Dans un groupe, le roublard se glisse naturellement dans les rôles que les autres n’occupent pas : éclaireur, espion, saboteur, négociateur… et parfois exécuteur silencieux. Il ne cherche pas la gloire. Il cherche l’efficacité. Et dans ce domaine, personne ne rivalise avec lui.
+
+
+[[Classes]]

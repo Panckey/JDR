@@ -1,3 +1,4 @@
+[[MJ]]
 ### Exemple fiche vide :
 
 https://donjonetdragon.fr/ressources/feuille-de-personnage/

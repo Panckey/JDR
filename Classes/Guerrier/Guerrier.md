@@ -362,3 +362,6 @@ Les guerriers apprennent les bases de tous les styles de combat. Chaque guerrier
 ### Entrainés pour le danger
 
 Tous les membres du gué de la ville, de la milice rurale ou de l’armée de la reine ne sont pas des guerriers. La plupart de ces unités sont des soldats relativement peu entraînés qui n’ont qu’une connaissance rudimentaire du combat. Les vétérans, les officiers, les gardes du corps formés, les chevaliers loyaux, etc. sont tous des guerriers. Certains guerriers ressentent le besoin de s’entraîner en tant qu’aventuriers. Trouver des donjons, tuer des monstres et d’autres tâches dangereuses communes aux aventuriers est une seconde nature pour un guerrier, pas différent de la vie qu’il laisse derrière lui. Il peut y avoir de plus grands risques, mais aussi de plus grandes récompenses ; par exemple, peu de guerriers dans un ferry urbain ont la chance de repérer une épée de feu.
+
+
+[[Classes]]

@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Gnomes dans DnD
 
 L’énergie et l’enthousiasme des gnomes pour la vie transparaît au travers de chaque pouce de la surface de son petit corps.

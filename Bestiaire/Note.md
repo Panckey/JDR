@@ -1,3 +1,4 @@
+[[MJ]]
 ## 🧙‍♂️ FP — _Facteur de Puissance_ (CR en anglais)
 
 👉 Indique **la dangerosité d’une créature**.

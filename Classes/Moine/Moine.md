@@ -424,3 +424,6 @@ La plupart des moines ne voient pas leurs voisins avec méfiance et se rendent s
 ### Isolé du monde commun
 
 À travers le paysage de D&D, de modestes monastères se dressent, offrant un refuge paisible contre les tourments du monde extérieur, comme si le temps lui-même y avait suspendu son vol. Les moines qui y résident cherchent l’harmonie par la contemplation et un entraînement rigoureux. Nombre d’entre eux y entrent dès leur plus jeune âge, parfois envoyés par des familles en détresse ou pour y trouver refuge après la perte de leurs proches. Certains moines vivent dans une totale retraite, éloignés de toute influence extérieure pour se consacrer pleinement à leur quête spirituelle. D’autres, au contraire, se consacrent aux missions d’espionnage ou d’assassinat, agissant sur ordre de leurs supérieurs, de nobles bienfaiteurs ou même de divinités.
+
+
+[[Classes]]

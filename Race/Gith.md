@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Giths dans D&D
 
 _Les gith étaient des humanoïdes de grande taille au physique émacié. Leur peau était d’un jaune pâle, parfois teintée de nuances verdâtres ou brunâtres. Leurs crânes étaient longs et anguleux, avec des yeux enfoncés, des nez aplatis et des oreilles pointues et dentelées. Les couleurs de cheveux courantes comprenaient le noir, le rouge, le roux, et parfois le gris._

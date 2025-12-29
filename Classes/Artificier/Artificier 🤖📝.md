@@ -242,3 +242,7 @@ Dans d’autres, comme **Eberron**, elle est industrialisée. Les artificiers in
 Les artificiers deviennent aventuriers parce que le laboratoire ne suffit plus. Tester une invention en conditions réelles, récupérer des matériaux rares ou repousser les limites de la création magique les pousse sur les routes.
 
 Ils ne cherchent pas toujours la gloire — mais la **prochaine grande découverte**.
+
+
+
+[[Classes]]

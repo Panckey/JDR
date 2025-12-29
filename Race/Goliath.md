@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Goliaths dans DnD
 
 Les goliaths sont des êtres gigantesques à la peau marbrée et aux muscles saillants, rappelant la puissance brute de leurs ancêtres géants. Leurs corps portent souvent des marques naturelles semblables à de la pierre, de la glace ou du fer brûlé, selon la lignée dont ils descendent.

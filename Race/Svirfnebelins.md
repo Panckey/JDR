@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Gnomes des profondeurs
 
 _En tant que Gnome des profondeurs, vous partagez les caractéristiques typiques des gnomes, à l’exception d’une teinte de peau dépourvue de lumière. De plus, le dialecte svirfnebelin est plus guttural que celui des gnomes de la surface, et la plupart des svirfnebelins maîtrisent peu le commun. Cependant, ceux qui ont des interactions avec des étrangers, notamment vous en tant qu’aventurier, acquièrent suffisamment de compétences en commun pour communiquer efficacement._

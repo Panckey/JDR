@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Tieffelins dans DnD
 
 La caractéristique la plus importante des tieffelins est leurs grandes cornes, qui peuvent prendre de nombreuses formes : certaines ont les cornes incurvées des béliers, d’autres ont les longues cornes des gazelles et d’autres encore ont les cornes en spirale des antilopes. Ils ont aussi une queue allongée, entre 120 et 150 cm de longueur, qui peut fouetter l’air ou s’enrouler autour de leurs jambes.

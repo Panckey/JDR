@@ -1,3 +1,4 @@
+[[Race]]
 ## Description physique des Halfelins dans DnD
 
 Les tout petits halfelins survivent dans un monde rempli de créatures plus grandes qu’eux en évitant d’être remarqués ou en évitant les offenses. Ils paraissent plutôt inoffensifs et ainsi, ils ont réussi à survivre depuis des siècles à l’ombre des empires et en marge des guerres.

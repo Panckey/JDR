@@ -1,3 +1,5 @@
+[[MJ]]
+
 | Points d’expérience | Niveau | Bonus de maîtrise |
 | ------------------- | ------ | ----------------- |
 | 0                   | 1      | +2                |
