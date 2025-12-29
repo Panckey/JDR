@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Ensorceleur/Sous Classe Sorcellerie de l’Horlogerie.md",
+                "file": "Classes/Sorts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sous Classe Sorcellerie de l’Horlogerie"
+              "title": "Sorts"
             }
           }
         ]
@@ -185,11 +185,12 @@
   },
   "active": "e3b2615763af8751",
   "lastOpenFiles": [
+    "Classes/Ensorceleur/Sorts.md",
+    "Classes/Ensorceleur/Sous Classe Magie Sauvage.md",
+    "Classes/Ensorceleur/Ensorceleur.md",
     "Classes/Ensorceleur/Sous Classe Sorcellerie Aberrante.md",
     "Classes/Ensorceleur/Sous Classe Sorcellerie Draconique.md",
     "Classes/Ensorceleur/Sous Classe Sorcellerie de l’Horlogerie.md",
-    "Classes/Ensorceleur/Sorts.md",
-    "Classes/Ensorceleur/Ensorceleur.md",
     "Classes/Guerrier/Guerrier.md",
     "Classes/Sorts.md",
     "Joueur/Fiche/Explication.md",
@@ -220,7 +221,6 @@
     "Classes/Rôdeur/Sous Classe Vagabond féérique.md",
     "Classes/Rôdeur/Sous Classe Traqueur des ombres.md",
     "Classes/Rôdeur/Sous Classe Maître des Bêtes.md",
-    "Classes/Rôdeur/Sous Classe Chasseur.md",
     "Classes/Rôdeur",
     "Classes/Roublard"
   ]

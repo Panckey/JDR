@@ -97,7 +97,7 @@ _(Paladin, Rôdeur)_
 
 ---
 
-## 🕯️ Sorcier
+## 🕯️ Occultiste
 
 _(Magie de pacte)_
 
@@ -136,7 +136,7 @@ _(Magie de pacte)_
     
 - Un sort peut être lancé avec un **emplacement supérieur**
     
-- Le Warlock ne dépasse jamais le **niveau 5 d’emplacement**
+- L'Occultiste ne dépasse jamais le **niveau 5 d’emplacement**
     
 
 ---
@@ -147,9 +147,9 @@ _(Magie de pacte)_
 
 ## 1️⃣ À quoi ça sert ?
 
-👉 À donner accès aux **sorts de niveau 6, 7, 8 et 9** au Sorcier
+👉 À donner accès aux **sorts de niveau 6, 7, 8 et 9** à l'Occultiste
 
-⚠️ Le sorcier **n’a jamais d’emplacements au-delà du niveau 5**  
+⚠️ L'Occultiste **n’a jamais d’emplacements au-delà du niveau 5**  
 Les Arcanes Mystiques compensent ça.
 
 ---
