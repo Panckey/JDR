@@ -138,7 +138,7 @@ Exemples :
     
 - Clerc / Druide → SAG
     
-- Barde / Sorcier / Warlock → CHA
+- Barde / Occultiste → CHA
     
 
 ### DD de sauvegarde des sorts
