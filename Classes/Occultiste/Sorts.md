@@ -41,3 +41,7 @@ Contrairement aux autres lanceurs de sorts, l’occultiste ne prépare pas de so
 Enfin, les Invocations mystiques transforment l’occultiste en véritable canal d’énergie occulte : amélioration du _Rayon occulte_, grimoires vivants, déplacements surnaturels, illusions permanentes, armures d’ombre, visions dans le vide cosmique…
 
 Chaque invocation est une percée vers un savoir interdit, un pas de plus sur la route qui mène au pouvoir — ou à la damnation.
+
+Visible ici :
+
+https://www.aidedd.org/dnd-filters/manifestations-occultes.php
