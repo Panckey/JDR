@@ -46,3 +46,6 @@ Lorsque tu manifestes ton Courroux de la mer, tu peux choisir de le projeter aut
 Cette créature bénéficie alors de tous les effets de l’émission, en utilisant ton DD de sauvegarde et ton modificateur de Sagesse.
 
 Tu peux également choisir de manifester l’aura autour de toi et de cette créature simultanément, mais tu dois alors dépenser deux utilisations de ta Forme sauvage au lieu d’une.
+
+
+[[Druide]]

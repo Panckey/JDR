@@ -85,3 +85,7 @@ Au premier round de chaque combat, tu joues deux tours :
 2. Un second tour à ton Initiative −10.
 
 Ce pouvoir te permet d’agir avant que la plupart des ennemis comprennent ce qui se passe — parfait pour un roublard qui cherche à tendre une embuscade ou à éliminer une cible primaire dès le début du combat.
+
+
+
+[[Roublard]]

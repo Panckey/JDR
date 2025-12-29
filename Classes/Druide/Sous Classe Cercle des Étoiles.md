@@ -80,3 +80,6 @@ De plus, au début de chacun de tes tours, tu peux changer de constellation acti
 
 Lorsque tu es en Forme stellaire, ton corps devient partiellement intangible, traversé par la lumière cosmique.  
 Tu gagnes la résistance aux dégâts contondants, perforants et tranchants.
+
+
+[[Druide]]

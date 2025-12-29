@@ -115,3 +115,6 @@ Après qu’une créature lance un sort vous visant (ou vous incluant dans sa zo
         - La créature ne peut plus le lancer durant cette durée.
 
 Vous ne pouvez utiliser cette capacité qu’une fois par repos long.
+
+
+[[Roublard]]

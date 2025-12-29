@@ -86,3 +86,6 @@ Vous avez atteint le sommet de la puissance psychique :
 - Tant que vous le maintenez, vous pouvez effectuer une attaque d’arme en action bonus à chaque tour.
 
 Vous pouvez relancer _Télékinésie_ de cette manière une fois par repos long, ou dépenser un dé psionique pour restaurer cette capacité immédiatement.
+
+
+[[Guerrier]]

@@ -104,3 +104,6 @@ Quand tu utilises tes Lames psychiques pour infliger une Attaque sournoise :
 - Elle peut refaire le jet à la fin de chacun de ses tours pour mettre fin à l’effet.
 
 Tu regagnes cette capacité après un repos long, ou tu peux la restaurer en dépensant 3 dés psioniques.
+
+
+[[Roublard]]

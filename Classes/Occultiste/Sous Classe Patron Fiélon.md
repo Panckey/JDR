@@ -71,3 +71,6 @@ Vous pouvez utiliser ce pouvoir 1 fois par Repos long, ou dépenser un emplaceme
 
 Ce n’est pas une attaque.  
 C’est une punition cosmique.
+
+
+[[Occultiste]]

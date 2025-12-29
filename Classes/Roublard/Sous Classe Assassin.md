@@ -51,3 +51,6 @@ Quand tu réussis une Attaque sournoise lors du premier round d’un combat, la 
 
 - Succès : l’attaque inflige ses dégâts normaux.
 - Échec : les dégâts totaux de l’attaque sont doublés.
+
+
+[[Roublard]]

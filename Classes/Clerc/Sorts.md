@@ -40,3 +40,5 @@ Contrairement à d’autres classes, le clerc ne “connaît” pas ses sorts au
 Le nombre de sorts préparés dépend de son niveau de clerc et de son modificateur de Sagesse. Cette flexibilité lui permet d’adapter sa magie à chaque mission : un jour, il soigne et protège ; le lendemain, il juge et purifie.
 
 Chaque domaine divin (Vie, Lumière, Ruse, Guerre) confère également au clerc des sorts toujours préparés, reflétant les aspects sacrés de sa divinité. Ainsi, deux clercs ne se ressemblent jamais : chacun est le reflet vivant de la foi qu’il incarne.
+
+[[Clerc]]

@@ -22,3 +22,5 @@ Bardes érudits qui traquent secrets et sorts : polyvalence et débrouillardise.
 
 - Quand tu rates un test d’aptitude ou un jet d’attaque, tu peux dépenser 1 Inspiration bardique, lancer ton dé et ajouter le résultat au d20, potentiellement transformant l’échec en réussite.
 - Si tu rates encore, l’Inspiration n’est pas dépensée.
+
+[[Barde]]

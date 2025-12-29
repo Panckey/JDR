@@ -35,3 +35,6 @@ Réalité illusoire :
 Vous avez appris le secret pour tisser la magie des ombres dans vos illusions et leur donner une semi-réalité. Lorsque vous lancez un sort d’illusion de niveau 1 ou plus, vous pouvez choisir un objet inanimé non magique qui fait partie de l’illusion et en faire un objet réel. Vous pouvez le faire à votre tour par une action bonus lorsque le sort est en cours. L’objet reste réel pendant 1 minute.
 
 > _Par exemple, vous pouvez créer l’illusion d’un pont au-dessus d’un abîme, puis en faire une réalité assez longtemps pour que vos alliés puissent le traverser. L’objet ne peut pas infliger de dégâts ou nuire directement à quiconque._
+
+
+[[Magicien]]

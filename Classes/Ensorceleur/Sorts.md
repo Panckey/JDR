@@ -41,3 +41,7 @@ Le nombre de sorts qu’il peut préparer dépend de son niveau d’ensorceleur 
 Certains sorts exigent une concentration (C) pour en maintenir l’énergie, d’autres sont des rituels (R) hérités d’une tradition ancienne, tandis que certains nécessitent des composants matériels (M) symbolisant l’origine de sa magie : un fragment draconique, une pierre d’ordre, une plume fey, une gemme psionique, ou simplement sa propre essence vitale.
 
 Grâce à cette magie bouillonnante et instinctive, l’ensorceleur peut aussi bien déclencher une explosion incandescente, désintégrer un ennemi d’un geste, manipuler les émotions, déformer l’espace autour de lui ou libérer une vague de chaos incontrôlé. Sa magie n’est pas un outil : c’est une part de lui-même, flamboyante, dangereuse, imprévisible… et infiniment puissante.
+
+
+
+[[Ensorceleur]]

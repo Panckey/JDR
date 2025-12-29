@@ -50,3 +50,6 @@ Pendant cette durée, vous bénéficiez des effets suivants :
 - **Rafale d’ombres (Shadow Flurry).** Vous pouvez utiliser votre Rafale de coups (Flurry of Blows) sans dépenser de point de Focus.
 
 Dans cet état, vous êtes une silhouette spectrale, un souffle dans la nuit… un fantôme parmi les vivants.
+
+
+[[Moine]]

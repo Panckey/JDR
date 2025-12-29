@@ -23,3 +23,5 @@ Chanteurs de hauts faits : bravoure, martial, soutien de première ligne.
 #### Niveau 14 : magie de bataille
 
 - Après avoir lancé un sort dont le temps d’incantation est une action, tu peux faire une attaque d’arme en action bonus.
+
+[[Barde]]

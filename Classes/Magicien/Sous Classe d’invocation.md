@@ -35,3 +35,6 @@ Lorsque vous vous concentrez sur un sort d’invocation, votre concentration ne 
 Convocations coriaces :
 
 Une créature que vous invoquez ou créez avec un sort d’invocation possède 30 points de vie temporaires.
+
+
+[[Magicien]]

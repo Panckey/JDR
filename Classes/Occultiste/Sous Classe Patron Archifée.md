@@ -86,3 +86,6 @@ Immédiatement après avoir lancé un sort d’Enchantement ou d’Illusion en u
 vous pouvez lancer Misty Step sans dépenser d’emplacement, en tant que partie du même sort.
 
 Votre magie devient ainsi un ballet d’illusions, de charme et de téléportations rapides — la signature même des archifées.
+
+
+[[Occultiste]]

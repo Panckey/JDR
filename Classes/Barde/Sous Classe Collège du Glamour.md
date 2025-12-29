@@ -28,3 +28,5 @@ Bardes tissant la magie féerique : charme, majesté, contrôle émotionnel.
 - Action bonus : adopte une présence majestueuse pour 1 minute (ou jusqu’à être Neutralisé).
 - Pour la durée : la première fois qu’une créature te touche avec une attaque chaque tour, elle doit réussir un JS de Charisme contre ton DD de sort ou l’attaque rate (elle se replie face à ta majesté).
 - Utilisation : 1/Repos court ou long.
+
+[[Barde]]

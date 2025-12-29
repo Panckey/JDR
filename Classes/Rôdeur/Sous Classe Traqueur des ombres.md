@@ -82,3 +82,7 @@ Lorsque tu es ciblé par une attaque :
 2. Qu’elle touche ou non, tu peux ensuite te téléporter de 30 ft (9 m) vers un espace inoccupé que tu vois.
 
 Tu deviens littéralement une ombre fuyante et insaisissable.
+
+
+
+[[Rôdeur]]

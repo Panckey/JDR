@@ -92,3 +92,6 @@ De plus :
     → elle inflige des dégâts psychiques supplémentaires égaux au bonus de dégâts de Hex.
 
 Vous matérialisez dans le monde réel un fragment de l’esprit qui vous observe depuis l’infini.
+
+
+[[Occultiste]]

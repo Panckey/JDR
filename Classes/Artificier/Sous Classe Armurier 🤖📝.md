@@ -39,3 +39,7 @@ Selon votre modèle, vous gagnez :
 - une meilleure mobilité,
     
 - et des capacités défensives ou offensives avancées.
+
+
+
+[[Artificier 🤖📝]]

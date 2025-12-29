@@ -51,3 +51,6 @@ La créature revient avec 4d10 + votre modificateur de Sagesse points de vie.
 Si elle était affectée par l’une des conditions suivantes avant sa mort — Aveuglé, Assourdi, Paralysé, Empoisonné, Étourdi —, ces effets disparaissent.
 
 Vous ne pouvez utiliser cette aptitude qu’une fois, et devez terminer un repos long avant de pouvoir l’utiliser à nouveau.
+
+
+[[Moine]]

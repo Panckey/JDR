@@ -37,3 +37,6 @@ Altération mémorielle :
 Vous gagnez la capacité d’influencer par magie une créature sans que celle-ci s’en rende compte. Lorsque vous utilisez un sort d’enchantement pour charmer une ou plusieurs créatures, vous pouvez altérer l’entendement de l’une d’entre elles pour qu’elle ignore le fait d’être charmée. De plus, une fois avant l’expiration du sort, vous pouvez utiliser votre action pour faire que la créature choisie oublie une partie du temps durant lequel elle a été charmée.
 
 > _La créature doit réussir un jet de sauvegarde d’Intelligence contre le DD de sauvegarde de vos sorts de magicien ou oublier ses souvenirs sur un nombre d’heures passées égal à 1 + votre modificateur de Charisme (minimum 1 heure). Vous pouvez choisir de diminuer cette durée, et ce temps ne peut pas excéder la durée de votre sort d’enchantement._
+
+
+[[Magicien]]

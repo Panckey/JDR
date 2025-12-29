@@ -40,3 +40,6 @@ Contrôle des morts-vivants :
 Vous pouvez utiliser la magie pour contrôler des morts-vivants, même ceux créés par d’autres magiciens. En dépensant une action vous pouvez choisir un mort-vivant situé dans un rayon de 18 mètres autour de vous et que vous pouvez voir. Cette créature doit faire un jet de sauvegarde de Charisme contre le DD de sauvegarde de vos sorts. Si elle réussit, vous ne pouvez plus utiliser cette capacité de nouveau sur elle. Si elle échoue, elle devient amicale envers vous et obéit à vos ordres jusqu’à ce que vous utilisiez cette capacité de nouveau.
 
 Les morts-vivants intelligents sont plus difficiles à contrôler de cette façon. Si la cible a une Intelligence de 8 ou plus, elle a un avantage à son jet de sauvegarde. Si elle échoue au jet de sauvegarde et possède une Intelligence de 12 ou plus, elle peut répéter son jet de sauvegarde à la fin de chaque heure, jusqu’à ce qu’elle réussisse et se libère.
+
+
+[[Magicien]]

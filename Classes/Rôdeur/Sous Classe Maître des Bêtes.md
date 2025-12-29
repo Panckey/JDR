@@ -82,3 +82,6 @@ Lorsque vous lancez un sort qui vous cible, votre compagnon primordial est égal
 
 Protection, soin, vitesse…  
 Vous devenez littéralement deux corps animés par une seule volonté.
+
+
+[[Rôdeur]]

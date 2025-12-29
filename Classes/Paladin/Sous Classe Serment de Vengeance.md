@@ -72,3 +72,7 @@ Pendant cette transformation, vous bénéficiez des effets suivants :
     - Les attaques contre les créatures terrorisées bénéficient de l’avantage.
 
 Sous cette forme, vous devenez l’ange du châtiment, un messager céleste du jugement, apportant la peur aux impies et la rédemption par le fer et la lumière.
+
+
+
+[[Paladin]]

@@ -33,3 +33,7 @@ Votre défenseur d’acier gagne :
 - des dégâts améliorés,
     
 - la capacité d’accorder une résistance aux dégâts à une créature alliée qu’il protège.
+
+
+
+[[Artificier 🤖📝]]

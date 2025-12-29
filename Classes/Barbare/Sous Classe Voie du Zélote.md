@@ -39,3 +39,6 @@ Une fois cette aptitude utilisée, vous ne pouvez plus la réutiliser avant d’
 Tant que vous êtes sous cette forme, vous gagnez :
 
 - Vol. Vous obtenez une vitesse de vol égale à votre vitesse de déplacement et pouvez voler en suspension (_hover_).
+
+
+[[Barbare]]

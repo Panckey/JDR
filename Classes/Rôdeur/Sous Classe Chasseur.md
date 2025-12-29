@@ -75,3 +75,6 @@ Quand tu subis des dégâts, tu peux utiliser ta réaction pour obtenir :
 - et à tous les dégâts du même type jusqu’à la fin du tour.
 
 Tu deviens soudainement aussi résistant que les prédateurs que tu traques.
+
+
+[[Rôdeur]]

@@ -42,3 +42,6 @@ Chaque fois que vous devriez lancer un ou plusieurs dés pour restaurer des poin
 vous appliquez automatiquement le résultat maximal de chaque dé.
 
 Exemple : au lieu de soigner 2d6 points de vie, vous restaurez 12 points de vie.
+
+
+[[Clerc]]

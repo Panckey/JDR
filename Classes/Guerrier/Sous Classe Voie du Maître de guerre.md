@@ -81,3 +81,6 @@ Voici toutes les options de manœuvres que vous pouvez apprendre et utiliser ave
 
 - **Appât et échange (Bait and Switch)** : Échangez votre position avec un allié et donnez un bonus de CA temporaire.
 - **Frappe allongeante (Lunging Attack)** : Effectuez une attaque après un déplacement rapide en ligne droite, ajoutant le dé aux dégâts.
+
+
+[[Guerrier]]

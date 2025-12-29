@@ -82,3 +82,6 @@ Pendant cette durée, vous bénéficiez des effets suivants :
 - **Frappe infaillible :** une fois par tour, lorsque vous ratez une attaque d’arme, vous pouvez choisir de la faire réussir automatiquement.
 
 Dans cet état, vous ne marchez plus parmi les mortels en tant que simple paladin — vous êtes une légende vivante, un héros éternel dont le nom survivra dans les chants et les épopées.
+
+
+[[Paladin]]

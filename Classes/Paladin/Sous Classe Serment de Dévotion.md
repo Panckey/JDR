@@ -73,3 +73,6 @@ Pendant la durée :
 - **Lumière du soleil :** Votre aura émet une lumière vive (20 ft) considérée comme de la lumière du soleil, dissipant les ténèbres et affaiblissant les morts-vivants.
 
 Vous devenez alors un véritable champion de la lumière, un avatar de la pureté divine.
+
+
+[[Paladin]]

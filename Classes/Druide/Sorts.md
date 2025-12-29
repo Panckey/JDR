@@ -40,3 +40,7 @@ Le nombre de sorts qu’il peut préparer dépend de son niveau de druide et de 
 Certains sorts du druide demandent une concentration (C) pour maintenir leur effet, d’autres sont des rituels (R) exécutables sans dépenser d’emplacement, et quelques-uns nécessitent des composants matériels (M) spécifiques liés à la nature : herbes rares, pierres druidiques, plumes, ou eau de source bénie.
 
 Grâce à cette magie fluide et organique, le druide peut aussi bien soigner un compagnon blessé, soulever une muraille de racines pour protéger ses alliés, ou appeler la foudre pour punir ceux qui menacent l’équilibre du monde.
+
+
+
+[[Druide]]

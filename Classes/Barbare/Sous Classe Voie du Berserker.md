@@ -21,3 +21,6 @@ Lorsque vous subissez des dégâts provenant d’une créature située à 1,5 m�
 En action bonus, vous pouvez projeter une présence terrifiante empreinte de votre puissance primale. Lorsque vous le faites, chaque créature de votre choix dans un rayon de 9 mètres (30 pieds) autour de vous doit réussir un jet de sauvegarde de Sagesse (DD = 8 + votre modificateur de Force + votre bonus de maîtrise) ou obtenir la condition Terrorisé pendant 1 minute.
 
 À la fin de chacun de ses tours, une créature affectée peut refaire le jet de sauvegarde, mettant fin à l’effet sur elle en cas de réussite. Une fois que vous utilisez cette aptitude, vous ne pouvez plus le faire avant d’avoir terminé un repos long, sauf si vous dépensez une utilisation de Rage (aucune action requise) pour la réactiver.
+
+
+[[Barbare]]

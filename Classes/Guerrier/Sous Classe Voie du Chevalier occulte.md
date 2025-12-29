@@ -81,3 +81,6 @@ Vous pouvez choisir de le faire avant ou après l’action supplémentaire.
 
 Lorsque vous effectuez l’action Attaquer, vous pouvez remplacer deux de vos attaques par le lancement d’un sort de magicien de niveau 1 ou 2 (temps d’incantation : 1 action).  
 Vous devenez un véritable guerrier-sorcier, maniant la magie comme une extension de votre art martial.
+
+
+[[Guerrier]]

@@ -74,3 +74,6 @@ Pendant cette durée :
 - Une fois par tour, lorsqu’un ennemi dans votre aura meurt, vous regagnez 10 points de vie.
 
 Vous ne pouvez utiliser cette aptitude qu’une fois par repos long.
+
+
+[[Paladin]]

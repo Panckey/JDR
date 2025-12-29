@@ -74,3 +74,7 @@ Pendant cette durée, vous gagnez les effets suivants :
 - **Sorts accélérés :** Lorsque vous lancez un sort dont le temps d’incantation est d’une action, vous pouvez le lancer en action bonus à la place.
 
 Sous cette forme, vous devenez un avatar de la vie et de la lumière primordiale, un protecteur immortel du cycle naturel. Là où vous marchez, la corruption recule et la terre refleurit.
+
+
+
+[[Paladin]]

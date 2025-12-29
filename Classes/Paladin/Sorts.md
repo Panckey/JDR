@@ -43,3 +43,6 @@ Certains sorts exigent de la concentration (C) pour maintenir leur pouvoir, d’
 
 Grâce à cette magie empreinte de lumière et de devoir, le paladin peut guérir les mourants, repousser les morts-vivants, consacrer le sol qu’il protège, ou déchaîner une Frappe divine pour anéantir le mal d’un seul coup.  
 Ses sorts ne sont pas de simples outils — ils sont la preuve vivante de son serment, le rappel qu’un seul cœur pur peut changer le destin du monde.
+
+
+[[Paladin]]

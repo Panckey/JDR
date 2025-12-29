@@ -54,3 +54,5 @@ Vous ne pouvez maintenir qu’une seule créature sous cet effet à la fois.
 Vous pouvez également terminer les vibrations de manière inoffensive (aucune action requise).
 
 Ce pouvoir représente l’arme ultime du moine, capable de détruire un adversaire de l’intérieur, par la simple vibration de la vie elle-même.
+
+[[Moine]]

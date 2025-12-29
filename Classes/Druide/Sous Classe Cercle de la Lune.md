@@ -50,3 +50,6 @@ La lumière de la lune te traverse entièrement, renforçant ton pouvoir de tran
 - **Rayonnement lunaire amélioré** : une fois par tour, tu peux infliger 2d10 dégâts radiants supplémentaires à une cible touchée par ton attaque en Forme sauvage.
 - **Lumière partagée** : lorsque tu utilises _Pas de clair de lune_, tu peux aussi téléporter une créature consentante située à 3 mètres (10 ft) de toi.  
     Elle réapparaît dans un espace libre situé à 3 mètres (10 ft) ou moins de ta position d’arrivée.
+
+
+[[Druide]]

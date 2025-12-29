@@ -27,3 +27,5 @@ Bardes qui synchronisent leur art avec le mouvement du cosmos : agilité, vitess
 - Face à un effet permettant un JS de Dextérité pour demi-dégâts, tu ne prends aucun dégât en cas de réussite, et la moitié en cas d’échec.
 - Si des créatures à 1,5 m (5 ft) de toi font le même JS, tu peux partager cet avantage avec elles pour ce jet.
 - Impossible à utiliser si tu es Neutralisé/Incapacitated.
+
+[[Barde]]

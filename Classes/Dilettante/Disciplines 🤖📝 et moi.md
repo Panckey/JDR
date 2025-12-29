@@ -341,3 +341,6 @@ Pendant **2 tours**, dans un rayon de **3 m** autour de vous :
 _Source : Ensorceleur – Magie sauvage_
 
 La **prochaine action** que vous effectuez déclenche automatiquement un **Déferlement de magie sauvage**.
+
+
+[[Dilettante 🤖📝et moi]]

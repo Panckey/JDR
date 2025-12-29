@@ -59,3 +59,6 @@ Votre lien avec les forces primordiales atteint son apogée. Tant que votre Harm
     Une fois par tour, lorsque vous touchez une cible avec une attaque à mains nues, vous pouvez infliger des dégâts supplémentaires égaux à 1 jet de votre dé d’Arts martiaux, du même type que votre frappe.
 
 Dans cet état, le moine devient un avatar vivant des éléments, fusion parfaite entre discipline intérieure et pouvoir cosmique.
+
+
+[[Moine]]

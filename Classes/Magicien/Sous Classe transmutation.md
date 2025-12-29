@@ -46,3 +46,5 @@ Vous pouvez utiliser votre action pour consumer la réserve de magie de transmut
 - **Panacée**. Vous mettez fin à toutes les maladies, malédictions et poisons qui affectent une créature en contact avec la pierre du transmutateur. La créature regagne également tous ses points de vie.
 - **Restitution de vie**. Vous lancez le sort _[rappel à la vie](https://donjonetdragonsort.fr/detailSort?Clerc?Rappel_a_la_vie)_ sur une créature que vous touchez au moyen de la pierre du transmutateur, sans avoir besoin d’utiliser un emplacement de sort ou d’avoir le sort écrit dans votre livre de sorts.
 - **Transformation majeure**. Vous pouvez transmuter un objet non-magique (pas plus grand qu’un cube de 1,50 mètre d’arêtes) en un autre objet non-magique d’une taille et d’une masse similaires et d’une valeur égale ou inférieure. Vous devez passer 10 minutes à manipuler l’objet pour pouvoir le transformer.
+
+[[Magicien]]

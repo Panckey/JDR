@@ -94,3 +94,5 @@ Cette capacité se recharge après un repos long.
 |**89–92**|Trois créatures dans 30 ft subissent 4d10 foudre.|
 |**93–96**|Vous et toutes les créatures dans 30 ft gagnez vulnérabilité aux dégâts perforants pendant 1 minute.|
 |**97–100**|Lancez 1d6 : 1 vous regagnez 2d10 PV ; 2 un allié (300 ft) regagne 2d10 PV ; 3 vous récupérez votre plus bas emplacement de sort ; 4 un allié récupère le sien ; 5 vous récupérez tous vos points de sorcellerie ; 6 tous les effets de la ligne 17–20 vous affectent simultanément.|
+
+[[Ensorceleur]]

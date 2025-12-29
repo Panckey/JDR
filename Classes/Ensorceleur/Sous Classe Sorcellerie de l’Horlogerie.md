@@ -93,3 +93,6 @@ Tous les objets endommagés entièrement dans la zone sont réparés instantané
 Tous les sorts de niveau 6 ou inférieur prennent fin sur les créatures et objets de votre choix dans la zone.
 
 Utilisable une fois par repos long, ou réactivable en dépensant 7 Points de Sorcellerie.
+
+
+[[Ensorceleur]]

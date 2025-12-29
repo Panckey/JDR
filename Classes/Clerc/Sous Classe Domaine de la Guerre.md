@@ -49,3 +49,5 @@ Votre union avec le pouvoir martial de votre dieu vous rend presque invulnérabl
 Vous gagnez une résistance aux dégâts contondants, perforants et tranchants.
 
 Votre chair devient l’acier sacré de la guerre, et votre foi, un bouclier vivant contre les forces du monde.
+
+[[Clerc]]

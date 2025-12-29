@@ -93,3 +93,6 @@ Effets :
 - **Réussite :** moitié des dégâts, sans déplacement forcé.
 
 Vous ne pouvez utiliser cette aptitude qu’une fois par repos long, sauf si vous dépensez 5 Points de Sorcellerie (aucune action requise) pour la réactiver immédiatement.
+
+
+[[Ensorceleur]]

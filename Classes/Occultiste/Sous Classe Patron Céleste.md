@@ -79,3 +79,6 @@ Ensuite, toutes les créatures que vous choisissez dans un rayon de 9 m autour d
 - sont Aveuglées jusqu’à la fin du tour.
 
 Ce pouvoir n’est utilisable qu’une fois par Repos long.
+
+
+[[Occultiste]]

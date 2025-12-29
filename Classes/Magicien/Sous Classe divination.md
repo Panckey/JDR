@@ -40,3 +40,6 @@ Vous pouvez utiliser votre action pour augmenter vos pouvoirs de perception. Dan
 Présage supérieur :
 
 Les visions de vos rêves s’intensifient et brossent un tableau plus précis dans votre esprit de ce qui va se passer. Vous lancez 3 dés, au lieu de 2, pour votre capacité de Présage.
+
+
+[[Magicien]]

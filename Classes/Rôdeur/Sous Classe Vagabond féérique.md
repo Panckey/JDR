@@ -82,3 +82,7 @@ Ton lien avec le Feywild te permet de traverser les voiles du monde.
     → Tu récupères ces usages après un repos long.
 
 Elle apparaît dans un espace libre à 1,50 m de ton point d’arrivée.
+
+
+
+[[Rôdeur]]

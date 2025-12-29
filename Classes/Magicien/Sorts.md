@@ -53,3 +53,6 @@ Si vous perdez votre grimoire, vous pouvez utiliser la même procédure pour rec
 Apparence du grimoire :
 
 Votre grimoire est une compilation unique de sorts, avec ses propres fioritures décoratives et notes en marge. Cela peut être un gros volume en cuir que vous avez reçu comme cadeau de votre maître, un livre finement relié que vous avez trouvé dans une ancienne bibliothèque, ou bien même plusieurs feuilles de notes rassemblées ensemble après avoir perdu votre grimoire précédent lors d’un accident.
+
+
+[[Magicien]]

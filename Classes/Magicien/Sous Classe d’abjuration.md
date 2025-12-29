@@ -35,3 +35,5 @@ Lorsque vous lancez un sort d’abjuration nécessitant un jet de caractéristiq
 Résistance aux sorts :
 
 Vous bénéficiez d’un avantage aux jets de sauvegarde contre les sorts et vous avez la résistance aux dégâts infligés par les sorts.
+
+[[Magicien]]

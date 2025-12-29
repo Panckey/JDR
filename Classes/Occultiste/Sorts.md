@@ -45,3 +45,6 @@ Chaque invocation est une percée vers un savoir interdit, un pas de plus sur la
 Visible ici :
 
 https://www.aidedd.org/dnd-filters/manifestations-occultes.php
+
+
+[[Occultiste]]

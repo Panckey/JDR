@@ -39,3 +39,5 @@ Chaque fois que vous activez votre Rage, choisissez l’une des options suivante
 - Bélier. Tant que votre Rage est active, lorsque vous touchez une créature Grande ou plus petite avec une attaque de mêlée, vous pouvez lui infliger la condition À terre (Prone).
 - Faucon. Tant que votre Rage est active, vous obtenez une vitesse de vol égale à votre vitesse de déplacement, à condition de ne pas porter d’armure.
 - Lion. Tant que votre Rage est active, vos ennemis dans un rayon de 1,5 mètre (5 pieds) ont désavantage à leurs jets d’attaque contre toute autre cible que vous (ou un autre barbare ayant choisi cette option).
+
+[[Barbare]]

@@ -80,3 +80,6 @@ Grâce à cette magie faite d’instinct et de nature, un rôdeur peut :
 Ses sorts ne sont pas de simples outils :  
 Ils sont le prolongement de son rôle, le symbole de son lien avec le monde sauvage,  
 le rappel qu’un seul chasseur déterminé peut changer le destin d’une forêt, d’un village… ou d’un royaume entier.
+
+
+[[Rôdeur]]

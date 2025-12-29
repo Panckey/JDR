@@ -39,3 +39,6 @@ Il est désormais considéré comme une menace majeure sur le champ de bataille.
 
 Vous pouvez maintenir **deux canons eldritch actifs simultanément**.  
 De plus, chacun de vos canons bénéficie d’une couverture partielle contre les attaques.
+
+
+[[Artificier 🤖📝]]

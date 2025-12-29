@@ -79,3 +79,6 @@ Lorsque vous commencez à lancer ce sort, vous pouvez choisir de le modifier :
 - Sa durée devient 1 minute
 
 Cette version permet un compagnon draconique agressif et immédiat sur le champ de bataille.
+
+
+[[Ensorceleur]]

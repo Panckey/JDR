@@ -72,3 +72,6 @@ Ils persistent pendant 1 minute, sauf si tu es neutralisé ou si tu meurs.
 - Tes alliés y gagnent également ta Résistance actuelle de _Gardien de la nature_.
 
 En action bonus, tu peux déplacer la zone jusqu’à 18 mètres (60 ft) vers un autre emplacement visible au sol dans la même portée.
+
+
+[[Druide]]

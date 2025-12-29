@@ -48,3 +48,6 @@ Pour le MJ, une rupture de serment est une **opportunité narrative en or** :
 
 Le plus important est d’en discuter avec le joueur.  
 Certains préféreront la rédemption, d’autres la chute — mais dans tous les cas, cela doit renforcer l’histoire du personnage et non le punir arbitrairement.
+
+
+[[Paladin]]

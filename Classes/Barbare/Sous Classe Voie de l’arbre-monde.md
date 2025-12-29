@@ -28,3 +28,6 @@ Lorsque vous activez votre Rage, et en action bonus tant qu’elle est active, v
 
 Une fois par Rage, vous pouvez étendre cette portée à 45 mètres (150 pieds) et emporter jusqu’à six créatures consentantes situées à 3 mètres (10 pieds) de vous.  
 Chaque créature est téléportée dans un espace libre de votre choix situé à 3 mètres (10 pieds) de votre destination.
+
+
+[[Barbare]]

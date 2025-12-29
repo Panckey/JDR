@@ -50,4 +50,7 @@ Votre duplicité atteint un niveau divin, rendant votre illusion aussi utile que
 - Distraction partagée : tant que l’illusion est à 1,50 mètre (5 ft) d’un ennemi, vous et vos alliés bénéficiez de l’avantage à vos jets d’attaque contre cette créature.
 - Illusion curative : lorsque l’illusion disparaît, vous ou une créature de votre choix située à 1,50 mètre (5 ft) d’elle regagne un nombre de points de vie égal à votre niveau de clerc.
 
-La ruse devient alors un instrument de survie — et votre foi, une arme d’illusion divine.
+La ruse devient alors un instrument de survie — et votre foi, une arme d’illusion divine
+
+
+[[Clerc]]

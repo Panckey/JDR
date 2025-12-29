@@ -53,3 +53,6 @@ Vous pouvez, par une action magique, faire rayonner autour de vous une aura de s
 - Vous récupérez toutes vos utilisations après un repos long.
 
 Cette lumière divine n’est pas seulement un symbole — c’est un soleil vivant, une manifestation du pouvoir purificateur des dieux.
+
+
+[[Clerc]]

@@ -53,3 +53,6 @@ Deux nouveaux dons vous définissent :
     Au début de chacun de vos tours, si vous êtes sanglant (Bloodied) mais que vous avez au moins 1 point de vie, vous regagnez 5 + votre modificateur de Constitution points de vie.
 
 Cette aptitude fait de vous un véritable colosse — un guerrier qui refuse tout simplement de tomber.
+
+
+[[Guerrier]]

@@ -32,3 +32,5 @@ Vos sorts et effets alchimiques ignorent la résistance aux dégâts de feu, d�
 
 Vous gagnez une résistance permanente à l’acide et au poison, ainsi qu’une immunité à l’état Empoisonné.  
 De plus, une fois par repos long, lorsque vous lancez un sort de soins, vous pouvez le maximiser sans lancer les dés.
+
+[[Artificier 🤖📝]]

@@ -37,3 +37,6 @@ Surcharge magique :
 Vous pouvez augmenter la puissance de vos sorts les plus simples. Lorsque vous lancez un sort de magicien d’un niveau compris entre 1 et 5 qui inflige des dégâts, vous pouvez infliger le maximum de dégâts avec ce sort. La première fois que vous le faites, vous ne souffrez d’aucun effet indésirable. Si vous utilisez à nouveau cette capacité avant la fin d’un repos long, vous subissez 2d12 dégâts nécrotiques pour chaque niveau du sort, immédiatement après l’avoir lancé.
 
 Et chaque fois que vous utilisez à nouveau cette capacité avant d’avoir terminé un repos long, les dégâts nécrotiques par niveau des sorts augmentent de 1d12. Ces dégâts ignorent la résistance et l’immunité.
+
+
+[[Magicien]]

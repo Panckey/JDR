@@ -33,3 +33,5 @@ Les sorts du barde sont organisés par niveau de sort et couvrent tout ce dont u
 - Des sorts supérieurs (niveaux 6 à 9) capables d’invoquer la majesté, de manipuler la réalité ou même de commander la vie et la mort.
 
 Le barde n’apprend pas les sorts de manière rigide comme un magicien : il prépare chaque jour un certain nombre de sorts choisis dans sa liste bardique, selon son niveau et son modificateur de Charisme. De plus, grâce à la capacité Secrets magiques, il peut apprendre des sorts issus des listes du Clerc, du Druide ou du Magicien, faisant de lui un véritable maître de la magie universelle.
+
+[[Barde]]
