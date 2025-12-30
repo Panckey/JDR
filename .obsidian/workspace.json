@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "a5e1738b786a2e90",
+    "id": "c61a4600e5596365",
     "type": "split",
     "children": [
       {
-        "id": "f718a591255e3f49",
+        "id": "4c57cd606152cf14",
         "type": "tabs",
         "children": [
           {
-            "id": "128da2d81c2923eb",
+            "id": "642cc6849b22c39c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "Règle/Règle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Règle"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f3de9dbaf3420bd8",
+    "id": "44b7954e7dca2c6f",
     "type": "split",
     "children": [
       {
-        "id": "6cc3ae9094f8e3cd",
+        "id": "28428f65ee1ae262",
         "type": "tabs",
         "children": [
           {
-            "id": "40d5c0cf8cc3886e",
+            "id": "87277379d4846a73",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
-            "id": "82937c2e2378574b",
+            "id": "a2183d4e4ef18063",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
-            "id": "3d66eda0fb49353f",
+            "id": "d3e3d2a876556975",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Signets"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "724268a80ad2c05d",
+    "id": "dc2d0923c8842bf4",
     "type": "split",
     "children": [
       {
-        "id": "e1df79dc830b1c16",
+        "id": "b3c58995bb2eaf26",
         "type": "tabs",
         "children": [
           {
-            "id": "26285d25317a81a5",
+            "id": "677eda981276241a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dieux/Bon/Ilmater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Backlinks for Ilmater"
             }
           },
           {
-            "id": "29b6ce94c0ed27cd",
+            "id": "d902b82c28578d04",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dieux/Bon/Ilmater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Outgoing links from Ilmater"
             }
           },
           {
-            "id": "23adb9c4af3817bf",
+            "id": "214e15b771288bd2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -127,11 +133,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Mots-clés"
+              "title": "Tags"
             }
           },
           {
-            "id": "3149241a58c07d0e",
+            "id": "8b5a9a8a5b98b5cf",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -141,25 +147,25 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Toutes les propriétés"
+              "title": "All properties"
             }
           },
           {
-            "id": "e5d4f3d348ed0436",
+            "id": "d2dc9b3029919e56",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dieux/Bon/Ilmater.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Outline of Ilmater"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,62 +174,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false
     }
   },
-  "active": "128da2d81c2923eb",
+  "active": "642cc6849b22c39c",
   "lastOpenFiles": [
-    "Jeu/MJ.md",
-    "Race/Humain.md",
-    "Race/Demi-Elfe.md",
-    "Race/Drakéide.md",
-    "Race/Génasi.md",
-    "Race/Gith.md",
-    "Race/Gnome.md",
-    "Race/Goblin.md",
-    "Race/Nain.md",
-    "Race/Orc.md",
-    "Race/Léonin.md",
-    "Race/Hiboulin.md",
-    "Plan d'existence/Plans Extérieurs.md",
-    "Plan d'existence/Plan Spécifique/Abysse.md",
+    "Plan d'existence/Plans Transitif.md",
+    "Plan d'existence/Plans Matériel.md",
+    "Plan d'existence/Plans Intérieur.md",
+    "Plan d'existence/Plans extérieurs.md",
+    "Plan d'existence/Plans autres.md",
+    "Plan d'existence/Les plans.md",
     "Plan d'existence/Plan Spécifique/Neuf enfer.md",
-    "Partie/PNJ/Création de PNJ.md",
-    "Partie/PNJ/Grim Bonotsk.md",
-    "Jeu/Fiche/Alignement.md",
-    "Jeu/Fiche/Explication.md",
-    "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
-    "Bestiaire/Bestiaire classique.md",
+    "Plan d'existence/Plan Spécifique/Abysse.md",
+    "Partie/Partie 1.md",
+    "Partie/Partie.md",
+    "Partie/Synopsis/Synopsis 1.md",
     "Partie/Synopsis/Idée.md",
+    "Jeu/EXP.md",
+    "Partie/Synopsis/Synopsis.md",
+    "Partie/PNJ/Grim Bonotsk.md",
+    "Partie/PNJ/Création de PNJ.md",
+    "Jeu/Sorts.md",
+    "Jeu/MJ.md",
+    "Jeu/Jet.md",
     "Bestiaire/Note.md",
+    "Classes/Barde/Barde.md",
+    "Jeu/Don.md",
+    "Jeu/Fiche/Explication.md",
+    "Jeu/Fiche/Alignement.md",
+    "Image/Pasted image 20251226023332.png.md",
+    "Image/Pasted image 20251226023853.png.md",
     "Image/Jergal_3E.webp",
-    "Dieux/Mauvais/Talona.md",
-    "Dieux/Bon/Azuth.md",
-    "Dieux/Bon/Mielikki.md",
-    "Sans titre.canvas",
     "Image/c4d3e220a869ddca2c3f26c920aca4ea.jpg",
-    "Partie/PNJ",
-    "Partie/Synopsis",
-    "Partie",
-    "Image/Pasted image 20251226183559.png",
-    "Image/Pasted image 20251226183501.png",
-    "Image/Pasted image 20251226183428.png",
-    "Image",
     "Image/alignementDnD.jpg",
+    "Dieux/Panthéon.canvas",
+    "Règle",
     "Plan d'existence/Plan Spécifique",
-    "Plan d'existence/Plans d'existences.canvas",
-    "Image/Pasted image 20251226182841.png",
-    "Jeu/Fiche/Personnage",
+    "Partie/Synopsis",
+    "Partie/PNJ",
+    "Partie",
+    "Jeu/Fiche",
+    "Jeu",
+    "Image/Pasted image 20251226230538.png",
+    "Image/Pasted image 20251226220509.png",
+    "Image/Pasted image 20251226220337.png",
+    "Image/Pasted image 20251226220149.png",
+    "Image/Pasted image 20251226220050.png",
+    "Image/Pasted image 20251226215235.png",
+    "Image/Pasted image 20251226215221.png",
+    "Image",
+    "Classes/work in progess ne pas utiliser",
     "Bestiaire/Bestiaire personnalisé",
-    "Bestiaire/Bestiaire classique",
-    "Bestiaire",
-    "Joueur/Sans titre",
-    "Dieux/Panthéon.canvas"
+    "Panthéon.canvas"
   ]
 }

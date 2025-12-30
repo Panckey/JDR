@@ -10,4 +10,8 @@ https://donjonetdragon.fr/ressources/pdf/
 ressources " indispensable" selon le site
 https://donjonetdragon.fr/ressources/
 
+player hand book pour toute question ou inconsistance 
+https://anyflip.com/oerjk/rewd/basic
+
 [[MJ]]
+
