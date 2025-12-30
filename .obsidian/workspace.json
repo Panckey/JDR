@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jeu/Fiche/Explication.md",
+                "file": "Dieux/Mauvais/Baine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Explication"
+              "title": "Baine"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jeu/Fiche/Explication.md",
+                "file": "Dieux/Mauvais/Baine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Explication"
+              "title": "Rétrolien pour Baine"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jeu/Fiche/Explication.md",
+                "file": "Dieux/Mauvais/Baine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Explication"
+              "title": "Liens sortants de Baine"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jeu/Fiche/Explication.md",
+                "file": "Dieux/Mauvais/Baine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Explication"
+              "title": "Plan de Baine"
             }
           }
         ],
@@ -186,6 +186,9 @@
   },
   "active": "128da2d81c2923eb",
   "lastOpenFiles": [
+    "Dieux/Mauvais/Myrkul.md",
+    "Dieux/Mauvais/Baine.md",
+    "Jeu/Fiche/Explication.md",
     "Jeu/MJ.md",
     "Jeu/Sorts.md",
     "Partie/Partie 1.md",
@@ -197,11 +200,8 @@
     "Partie/PNJ/Grim Bonotsk.md",
     "Image/c4d3e220a869ddca2c3f26c920aca4ea.jpg",
     "Dieux/Mauvais/Shar.md",
-    "Dieux/Mauvais/Myrkul.md",
-    "Dieux/Mauvais/Bane.md",
     "Dieux/Mauvais/Bhaal.md",
     "Bestiaire/Note.md",
-    "Jeu/Fiche/Explication.md",
     "Bestiaire/Bestiaire classique.md",
     "Jeu/Don.md",
     "Jeu/Jet.md",
