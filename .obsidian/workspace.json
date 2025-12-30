@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Dilettante/Disciplines 🤖📝 et moi.md",
+                "file": "Classes/ne pas utiliser work in progress/Dilettante 🤖📝et moi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disciplines 🤖📝 et moi"
+              "title": "Dilettante 🤖📝et moi"
             }
           }
         ]
@@ -183,17 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "642cc6849b22c39c",
+  "active": "87277379d4846a73",
   "lastOpenFiles": [
-    "Classes/Dilettante/Dilettante 🤖📝et moi.md",
-    "Classes/Dilettante/Disciplines 🤖📝 et moi.md",
+    "Classes/ne pas utiliser work in progress/Disciplines 🤖📝 et moi.md",
+    "Classes/ne pas utiliser work in progress/Dilettante 🤖📝et moi.md",
     "Classes/Magicien/Magicien.md",
     "Classes/Guerrier/Guerrier.md",
     "Classes/Ensorceleur/Ensorceleur.md",
     "Classes/Barbare/Barbare.md",
     "Classes/Barde/Barde.md",
     "Classes/Artificier/Artificier 🤖📝.md",
-    "Classes/Dilettante",
+    "Classes/ne pas utiliser work in progress",
     "Classes/Clerc/Clerc.md",
     "Classes/Druide/Druide.md",
     "Classes/Artificier/Sous Classe Forgeron de bataille 🤖📝.md",
