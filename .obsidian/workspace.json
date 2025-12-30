@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dieux/Mauvais/Baine.md",
+                "file": "Jeu/Don.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Baine"
+              "title": "Don"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dieux/Mauvais/Baine.md",
+                "file": "Jeu/Don.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Baine"
+              "title": "Rétrolien pour Don"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dieux/Mauvais/Baine.md",
+                "file": "Jeu/Don.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Baine"
+              "title": "Liens sortants de Don"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dieux/Mauvais/Baine.md",
+                "file": "Jeu/Don.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Baine"
+              "title": "Plan de Don"
             }
           }
         ],
@@ -186,25 +186,29 @@
   },
   "active": "128da2d81c2923eb",
   "lastOpenFiles": [
-    "Dieux/Mauvais/Myrkul.md",
-    "Dieux/Mauvais/Baine.md",
-    "Jeu/Fiche/Explication.md",
+    "Jeu/Jet.md",
+    "Jeu/EXP.md",
+    "2025-12-30.md",
+    "Sans titre.canvas",
+    "Jeu/Don.md",
+    "Bestiaire/Note.md",
+    "Classes/Classes.md",
+    "Classes/Guerrier/Guerrier.md",
     "Jeu/MJ.md",
+    "Dieux/Mauvais/Baine.md",
+    "Dieux/Mauvais/Myrkul.md",
+    "Jeu/Fiche/Explication.md",
     "Jeu/Sorts.md",
     "Partie/Partie 1.md",
     "Partie/Partie.md",
     "Partie/Synopsis/Synopsis 1.md",
     "Partie/Synopsis/Synopsis.md",
-    "Jeu/EXP.md",
     "Partie/PNJ/Création de PNJ.md",
     "Partie/PNJ/Grim Bonotsk.md",
     "Image/c4d3e220a869ddca2c3f26c920aca4ea.jpg",
     "Dieux/Mauvais/Shar.md",
     "Dieux/Mauvais/Bhaal.md",
-    "Bestiaire/Note.md",
     "Bestiaire/Bestiaire classique.md",
-    "Jeu/Don.md",
-    "Jeu/Jet.md",
     "Partie/PNJ",
     "Partie/Synopsis",
     "Partie",
@@ -216,10 +220,6 @@
     "Image",
     "Règle/Règle.md",
     "Race/Tortue.md",
-    "Race/Triton.md",
-    "Race/Tieffelin.md",
-    "Race/Tabaxi.md",
-    "Race/Svirfnebelins.md",
     "Image/alignementDnD.jpg",
     "Plan d'existence/Plan Spécifique",
     "Plan d'existence/Plans d'existences.canvas",
