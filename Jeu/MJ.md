@@ -18,3 +18,8 @@ PP = Pièce de platine
 Besoin de 20 provisions pour un long repos sauf auberge
 
 20 provisions coutent 5 PC
+
+# Map
+
+https://www.aidedd.org/atlas/fr/sword-coast
+Ou les fichier télécharger
