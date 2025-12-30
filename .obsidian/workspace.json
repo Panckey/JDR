@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partie/Synopsis/Idée.md",
+                "file": "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idée"
+              "title": "Fausse Hydre"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partie/Synopsis/Idée.md",
+                "file": "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Idée"
+              "title": "Rétrolien pour Fausse Hydre"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partie/Synopsis/Idée.md",
+                "file": "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Idée"
+              "title": "Liens sortants de Fausse Hydre"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Partie/Synopsis/Idée.md",
+                "file": "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Idée"
+              "title": "Plan de Fausse Hydre"
             }
           }
         ],
@@ -186,9 +186,11 @@
   },
   "active": "128da2d81c2923eb",
   "lastOpenFiles": [
+    "Bestiaire/Bestiaire classique.md",
+    "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
+    "Partie/Synopsis/Idée.md",
     "Bestiaire/Note.md",
     "Image/Jergal_3E.webp",
-    "Partie/Synopsis/Idée.md",
     "Dieux/Mauvais/Talona.md",
     "Dieux/Bon/Azuth.md",
     "Dieux/Bon/Mielikki.md",
@@ -211,8 +213,6 @@
     "Dieux/Neutre/Mystra.md",
     "Dieux/Bon/Chauntea.md",
     "Dieux/Bon/Tyr.md",
-    "Dieux/Bon/Torm.md",
-    "Dieux/Bon/Selûne.md",
     "Sans titre.canvas",
     "Image/c4d3e220a869ddca2c3f26c920aca4ea.jpg",
     "Partie/PNJ",
