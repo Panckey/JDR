@@ -11,10 +11,14 @@
             "id": "128da2d81c2923eb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "Jeu/Fiche/Explication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explication"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dieux/Panthéon.canvas",
+                "file": "Jeu/Fiche/Explication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Panthéon"
+              "title": "Rétrolien pour Explication"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dieux/Panthéon.canvas",
+                "file": "Jeu/Fiche/Explication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Panthéon"
+              "title": "Liens sortants de Explication"
             }
           },
           {
@@ -152,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dieux/Panthéon.canvas",
+                "file": "Jeu/Fiche/Explication.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Panthéon"
+              "title": "Plan de Explication"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,37 +184,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "40d5c0cf8cc3886e",
+  "active": "128da2d81c2923eb",
   "lastOpenFiles": [
+    "Jeu/MJ.md",
+    "Jeu/Sorts.md",
+    "Partie/Partie 1.md",
+    "Partie/Partie.md",
+    "Partie/Synopsis/Synopsis 1.md",
+    "Partie/Synopsis/Synopsis.md",
+    "Jeu/EXP.md",
+    "Partie/PNJ/Création de PNJ.md",
+    "Partie/PNJ/Grim Bonotsk.md",
+    "Image/c4d3e220a869ddca2c3f26c920aca4ea.jpg",
+    "Dieux/Mauvais/Shar.md",
+    "Dieux/Mauvais/Myrkul.md",
+    "Dieux/Mauvais/Bane.md",
+    "Dieux/Mauvais/Bhaal.md",
+    "Bestiaire/Note.md",
+    "Jeu/Fiche/Explication.md",
+    "Bestiaire/Bestiaire classique.md",
+    "Jeu/Don.md",
+    "Jeu/Jet.md",
+    "Partie/PNJ",
+    "Partie/Synopsis",
+    "Partie",
+    "Jeu/Fiche/Alignement.md",
+    "Classes/Clerc/Clerc.md",
     "Image/Pasted image 20251226183559.png",
     "Image/Pasted image 20251226183501.png",
     "Image/Pasted image 20251226183428.png",
     "Image",
-    "Bestiaire/Note.md",
     "Règle/Règle.md",
-    "Bestiaire/Bestiaire classique.md",
-    "Jeu/Sorts.md",
-    "Jeu/MJ.md",
-    "Jeu/Jet.md",
-    "Jeu/EXP.md",
-    "Jeu/Don.md",
-    "Jeu/Fiche/Explication.md",
-    "Jeu/Fiche/Alignement.md",
     "Race/Tortue.md",
     "Race/Triton.md",
     "Race/Tieffelin.md",
     "Race/Tabaxi.md",
     "Race/Svirfnebelins.md",
-    "Race/Sirines.md",
-    "Race/Race.md",
-    "Race/Orc.md",
-    "Race/Nain.md",
-    "Race/Léonin.md",
-    "Race/Humain.md",
-    "Race/Homme-Lapin.md",
-    "Race/Hiboulin.md",
-    "Race/Halfelin.md",
-    "Race/Goliath.md",
     "Image/alignementDnD.jpg",
     "Plan d'existence/Plan Spécifique",
     "Plan d'existence/Plans d'existences.canvas",
@@ -219,9 +229,6 @@
     "Bestiaire/Bestiaire classique",
     "Bestiaire",
     "Joueur/Sans titre",
-    "Jeu/Fiche",
-    "Jeu",
-    "Dieux/Panthéon.canvas",
-    "Règle"
+    "Dieux/Panthéon.canvas"
   ]
 }
