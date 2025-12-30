@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
+                "file": "Partie/PNJ/Création de PNJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fausse Hydre"
+              "title": "Création de PNJ"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
+                "file": "Partie/PNJ/Création de PNJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Fausse Hydre"
+              "title": "Rétrolien pour Création de PNJ"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
+                "file": "Partie/PNJ/Création de PNJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Fausse Hydre"
+              "title": "Liens sortants de Création de PNJ"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
+                "file": "Partie/PNJ/Création de PNJ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Fausse Hydre"
+              "title": "Plan de Création de PNJ"
             }
           }
         ],
@@ -186,8 +186,11 @@
   },
   "active": "128da2d81c2923eb",
   "lastOpenFiles": [
-    "Bestiaire/Bestiaire classique.md",
+    "Jeu/Fiche/Alignement.md",
+    "Jeu/Fiche/Explication.md",
+    "Jeu/MJ.md",
     "Bestiaire/Bestiaire personnalisé/Fausse Hydre.md",
+    "Bestiaire/Bestiaire classique.md",
     "Partie/Synopsis/Idée.md",
     "Bestiaire/Note.md",
     "Image/Jergal_3E.webp",
@@ -210,9 +213,6 @@
     "Dieux/Neutre/Kelemvor.md",
     "Dieux/Neutre/Helm.md",
     "Dieux/Neutre/Jergal.md",
-    "Dieux/Neutre/Mystra.md",
-    "Dieux/Bon/Chauntea.md",
-    "Dieux/Bon/Tyr.md",
     "Sans titre.canvas",
     "Image/c4d3e220a869ddca2c3f26c920aca4ea.jpg",
     "Partie/PNJ",
