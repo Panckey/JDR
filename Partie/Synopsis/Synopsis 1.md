@@ -15,6 +15,7 @@ De jeunes aventurier fauché, cela fais un mois qu'ils sont sur les routes de ce
 ### Récompense :
 
 7 pièce d'or + Loot gobelin, loups + Provisions
+Sur le Chef gobelin : [carte des oracles](https://www.aidedd.org/dnd/om.php?vf=cartes-des-oracles) [Dé de charlatant](https://www.aidedd.org/dnd/om.php?vf=de-de-charlatan) et 1 potion de guérison par joueur
 
 ### EXP
 
