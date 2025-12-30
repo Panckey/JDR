@@ -1,3 +1,4 @@
+[[MJ]]
 ## Idées de quêtes par dieu (Niveau 1 → 25)
 
 ---
