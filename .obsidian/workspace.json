@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partie/PNJ/Grim Bonotsk.md",
+                "file": "Bestiaire/Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grim Bonotsk"
+              "title": "Note"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partie/PNJ/Grim Bonotsk.md",
+                "file": "Bestiaire/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Grim Bonotsk"
+              "title": "Rétrolien pour Note"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partie/PNJ/Grim Bonotsk.md",
+                "file": "Bestiaire/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Grim Bonotsk"
+              "title": "Liens sortants de Note"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Partie/PNJ/Grim Bonotsk.md",
+                "file": "Bestiaire/Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Grim Bonotsk"
+              "title": "Plan de Note"
             }
           }
         ],
@@ -186,40 +186,41 @@
   },
   "active": "128da2d81c2923eb",
   "lastOpenFiles": [
-    "Partie/Synopsis/Synopsis 1.md",
-    "Jeu/Don.md",
-    "Jeu/MJ.md",
-    "Jeu/Jet.md",
-    "Jeu/EXP.md",
-    "2025-12-30.md",
+    "Image/Jergal_3E.webp",
+    "Partie/Synopsis/Idée.md",
+    "Dieux/Mauvais/Talona.md",
+    "Dieux/Bon/Azuth.md",
+    "Dieux/Bon/Mielikki.md",
+    "Dieux/Neutre/Sehanine Moonbow.md",
+    "Dieux/Raciaux/Berronar Truesilver.md",
+    "Dieux/Bon/Lliira.md",
+    "Dieux/Neutre/Sune.md",
+    "Dieux/Neutre/Talona.md",
+    "Dieux/Raciaux/Corellon Larethian.md",
+    "Dieux/Raciaux/Moradin.md",
+    "Dieux/Raciaux/Yondalla.md",
+    "Dieux/Raciaux/Gruumsh.md",
+    "Dieux/Neutre/Tempus.md",
+    "Dieux/Neutre/Silvanus.md",
+    "Dieux/Neutre/Oghma.md",
+    "Dieux/Neutre/Mask.md",
+    "Dieux/Neutre/Kelemvor.md",
+    "Dieux/Neutre/Helm.md",
+    "Dieux/Neutre/Jergal.md",
+    "Dieux/Neutre/Mystra.md",
+    "Dieux/Bon/Chauntea.md",
+    "Dieux/Bon/Tyr.md",
+    "Dieux/Bon/Torm.md",
+    "Dieux/Bon/Selûne.md",
     "Sans titre.canvas",
-    "Bestiaire/Note.md",
-    "Classes/Classes.md",
-    "Classes/Guerrier/Guerrier.md",
-    "Dieux/Mauvais/Baine.md",
-    "Dieux/Mauvais/Myrkul.md",
-    "Jeu/Fiche/Explication.md",
-    "Jeu/Sorts.md",
-    "Partie/Partie 1.md",
-    "Partie/Partie.md",
-    "Partie/Synopsis/Synopsis.md",
-    "Partie/PNJ/Création de PNJ.md",
-    "Partie/PNJ/Grim Bonotsk.md",
     "Image/c4d3e220a869ddca2c3f26c920aca4ea.jpg",
-    "Dieux/Mauvais/Shar.md",
-    "Dieux/Mauvais/Bhaal.md",
-    "Bestiaire/Bestiaire classique.md",
     "Partie/PNJ",
     "Partie/Synopsis",
     "Partie",
-    "Jeu/Fiche/Alignement.md",
-    "Classes/Clerc/Clerc.md",
     "Image/Pasted image 20251226183559.png",
     "Image/Pasted image 20251226183501.png",
     "Image/Pasted image 20251226183428.png",
     "Image",
-    "Règle/Règle.md",
-    "Race/Tortue.md",
     "Image/alignementDnD.jpg",
     "Plan d'existence/Plan Spécifique",
     "Plan d'existence/Plans d'existences.canvas",
