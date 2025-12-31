@@ -1,3 +1,4 @@
+[[Race]]
 ## Semi-géant - voadkyn
 
 ![Voadkyn](https://www.donjondudragon.fr/site/images/drs/races/voadkyn.jpg)Les voadkyns sont aussi connus sous le nom plus commun de géants des bois. Ce sont l'une des plus petites races semi-géantes, et ils ressemblent vaguement à des elfes des forêts géants. Ils mesurent environ 2,85 m et pèsent environ 350 kg. Ils ont les mêmes proportions physique que les humains, ce qui leur confère une apparence plus mince et légère que la plupart des autres races semi-géantes. Les géants des bois n'ont pas de système pileux. Ils ont une grande tête pour leur corps, et leurs mâchoires, menton et bouche sont particulièrement proéminents. Leurs oreilles prennent naissance plus haut que les oreilles des humains, presque entièrement au-dessus des yeux.

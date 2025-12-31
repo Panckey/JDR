@@ -1,5 +1,5 @@
 # Magicien : école d’abjuration
-
+[[Magicien]]
 ![école d'abjuration dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2023/05/ecole-dabjuration-dnd.jpg?resize=564%2C423&ssl=1)
 
 L’école d’abjuration se focalise sur la magie de protection, de bannissement et de neutralisation, bien qu’elle soit parfois critiquée pour son approche défensive. Cependant, mettre fin aux effets nuisibles, protéger les plus vulnérables et repousser les forces maléfiques sont des tâches honorables et respectées. Les membres de cette école, appelés abjurateurs, sont souvent sollicités pour exorciser des esprits malfaisants, sécuriser des lieux importants contre les intrusions magiques, et sceller des portails vers d’autres plans d’existence.

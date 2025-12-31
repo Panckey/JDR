@@ -1,3 +1,4 @@
+[[Race]]
 ## Demi-elfe planaire
 
 Dans les plans, les demi-elfes sont généralement le résultat d'un humain planaire et d'un elfe primaire, et ils sont plus ou moins exceptionnels que ceux du Plan Primaire. Plus exceptionnels, parce qu'ils sont beaucoup moins nombreux que ceux du primaire ; moins inhabituels, parce que quand on le compare à d'autres créatures aplanies comme les genasis et les tieffelins, le demi-elfe est moins surprenant. Pour la plupart des planaires, les demi-elfes sont justes des humains aux oreilles pointues, sans aucun signe distinctif particuliers qui permettrait de les classer à part.

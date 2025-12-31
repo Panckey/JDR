@@ -1,3 +1,4 @@
+[[Barbare]]
 ![barbare de la voie du coeur sauvage dans donjon et dragon](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/04/guerrier-totem-barbare-donjon-et-dragon.jpeg?resize=564%2C797&ssl=1)
 
 ### Voie du coeur sauvage

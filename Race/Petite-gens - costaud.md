@@ -1,3 +1,4 @@
+[[Race]]
 ## Petite-gens - costaud
 
 Les Costauds ne sont pas aussi courants que leurs cousins Pieds-Velus, mais constituent tout de même une race nombreuse et répandue. Ils font à peu près la même taille que les pieds-Velus, soit à un ou deux pouces près 90 cm ; mais ils sont bien plus carrés - un Costaud moyen pèse une fois et demi le poids du Pieds-Velus moyen ! Cette corpulence n'est néanmoins pas que de la graisse ; les Costauds sont plus musclés que les autres petites-gens et sont généralement meilleurs que les autres dans les matchs de lutte, qui sont d'ailleurs très populaires chez eux.

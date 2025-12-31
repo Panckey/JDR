@@ -1,3 +1,4 @@
+[[Occultiste]]
 ![le grand ancien de la classe occultiste dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/10/sage-occultiste-concept-art-dnd.jpeg?resize=563%2C933&ssl=1)
 
 ### Grand Ancien

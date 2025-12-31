@@ -1,3 +1,4 @@
+[[Race]]
 ## Saurial
 
 ![Saurials : Piquedos, Voltigeur, Cornu et Aileronné](https://www.donjondudragon.fr/site/images/drs/races/saurial.jpg)Les saurials sont une race de lézards provenant d'un Plan Primaire parallèle. Jusqu'ici, on ne les a vus que dans les Royaumes Oubliés, c'était des individus qui avaient été kidnappés et amenés là par le dieu maléfique Moander. A la mort du dieu, les saurials ont décidé de faire des Royaumes leur résidence.

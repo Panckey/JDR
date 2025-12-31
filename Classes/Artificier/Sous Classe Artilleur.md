@@ -1,3 +1,4 @@
+[[Artificier]]
 ![[Pasted image 20251226220337.png]]
 ### [Artilleur](https://www.aidedd.org/dnd-5/unearthed-arcana/artificier/#srtilleur)
 

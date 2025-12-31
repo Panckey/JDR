@@ -1,3 +1,4 @@
+[[Barbare]]
 ![barbare voie du zelote](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/05/barbare-guerrier-totem.jpeg?resize=564%2C675&ssl=1)
 
 ### Voie du Zélote

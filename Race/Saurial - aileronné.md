@@ -1,3 +1,4 @@
+[[Race]]
 ## Saurial - aileronné
 
 ![Aileronné](https://www.donjondudragon.fr/site/images/drs/races/saurialaileronne.jpg)Les aileronnés sont plus proches des humains, mais un peu plus petits, avec une moyenne de 1,5 m. Un aileron émerge de la tête de ces saurials, et la queue fait un peu plus de la moitié de la taille du corps.

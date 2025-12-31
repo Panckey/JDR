@@ -1,3 +1,4 @@
+[[Paladin]]
 ![Paladin : serment des anciens](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/03/serment-ancien-paladin.png?resize=580%2C545&ssl=1)
 
 ### Serment des Anciens

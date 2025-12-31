@@ -1,3 +1,4 @@
+[[Occultiste]]
 ![Occultiste archifée DnD](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2025/11/occultiste-dungeons-and-dragons.webp?resize=580%2C746&ssl=1)
 
 ### Patron Archifée

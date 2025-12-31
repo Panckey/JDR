@@ -1,3 +1,4 @@
+[[Race]]
 ## Gnoll
 
 ![Gnoll](https://www.donjondudragon.fr/site/images/drs/races/gnoll.jpg)Les gnolls sont de grands et maléfiques humanoïdes à tête de hyène qui écument les terres en bandes vaguement organisées. Ils mesurent environ 2.35 m. Ils sont humanoïdes, mais les détails sont plus proches d'une hyène. La peau d'un gnoll est gris-vert et s'assombrit vers le museau. Ils ont de petites touffes de poils allant du gris-rouge au jaune.

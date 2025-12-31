@@ -1,3 +1,4 @@
+[[Race]]
 ## Nain - déraciné
 
 ![Nain déraciné](https://www.donjondudragon.fr/site/images/drs/races/nainderacine.jpg)A la différence de la plupart des nains, les nains déracinés vivent à la surface. Nains des collines ou des montagnes, ils furent séparés de leur famille et de leurs manières de vivre habituelles. Alors que les nains des profondeurs s'enfoncèrent dans la terre, les nains déracinés furent obligés de gagner la surface.

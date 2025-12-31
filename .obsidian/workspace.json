@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "c61a4600e5596365",
+    "id": "a5e1738b786a2e90",
     "type": "split",
     "children": [
       {
-        "id": "4c57cd606152cf14",
+        "id": "167afcb7c71f8dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "642cc6849b22c39c",
+            "id": "df9072141fe09479",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Race/Wemic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wemic"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "44b7954e7dca2c6f",
+    "id": "f3de9dbaf3420bd8",
     "type": "split",
     "children": [
       {
-        "id": "28428f65ee1ae262",
+        "id": "6cc3ae9094f8e3cd",
         "type": "tabs",
         "children": [
           {
-            "id": "87277379d4846a73",
+            "id": "40d5c0cf8cc3886e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +40,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
-            "id": "a2183d4e4ef18063",
+            "id": "82937c2e2378574b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +57,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
-            "id": "d3e3d2a876556975",
+            "id": "3d66eda0fb49353f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Signets"
             }
           }
         ]
@@ -81,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "dc2d0923c8842bf4",
+    "id": "724268a80ad2c05d",
     "type": "split",
     "children": [
       {
-        "id": "b3c58995bb2eaf26",
+        "id": "e1df79dc830b1c16",
         "type": "tabs",
         "children": [
           {
-            "id": "677eda981276241a",
+            "id": "26285d25317a81a5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dieux/Bon/Ilmater.md",
+                "file": "Jeu/EXP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ilmater"
+              "title": "Rétrolien pour EXP"
             }
           },
           {
-            "id": "d902b82c28578d04",
+            "id": "29b6ce94c0ed27cd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dieux/Bon/Ilmater.md",
+                "file": "Jeu/EXP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ilmater"
+              "title": "Liens sortants de EXP"
             }
           },
           {
-            "id": "214e15b771288bd2",
+            "id": "23adb9c4af3817bf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,11 +129,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           },
           {
-            "id": "8b5a9a8a5b98b5cf",
+            "id": "3149241a58c07d0e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,25 +143,26 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Toutes les propriétés"
             }
           },
           {
-            "id": "d2dc9b3029919e56",
+            "id": "e5d4f3d348ed0436",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dieux/Bon/Ilmater.md",
+                "file": "Jeu/EXP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ilmater"
+              "title": "Plan de EXP"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,64 +171,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "bases:Create new base": false
     }
   },
-  "active": "642cc6849b22c39c",
+  "active": "df9072141fe09479",
   "lastOpenFiles": [
-    "Race/Semi-géant - voadkyn.md",
-    "Race/Wemic.md",
-    "Race/Saurial - voltigeur.md",
-    "Race/Semi-géant - firbolg.md",
-    "Race/Saurial - piquedos.md",
-    "Race/Saurial - cornu.md",
-    "Race/Saurial - aileronné.md",
-    "Race/Saurial.md",
-    "Race/Satyre.md",
-    "Race/Pixie.md",
-    "Race/Petite-gens - pieds-velus.md",
-    "Race/Petite-gens - grand-gars.md",
+    "Race/A compléter quand j'aurais pas la flm.md",
+    "Classes.md",
     "Race/Petite-gens - costaud.md",
-    "Race/Petite-gens.md",
-    "Race/Ogre mage.md",
-    "Race/Orc.md",
-    "Race/Ogre.md",
-    "Race/Nain - duergar.md",
-    "Race/Nain - des profondeurs.md",
-    "Race/Nain - des montagnes.md",
-    "Race/Nain - des collines.md",
-    "Race/Nain - déraciné.md",
-    "Race/Nain - d'égout.md",
-    "Race/Minotaure.md",
-    "Race/Kobold.md",
-    "Race/Humain planaire.md",
-    "Pasted image 20251231081110.png",
-    "Pasted image 20251231081022.png",
-    "Pasted image 20251231081006.png",
-    "Pasted image 20251231080937.png",
-    "Pasted image 20251231080928.png",
-    "Pasted image 20251231080905.png",
-    "Pasted image 20251231080857.png",
-    "Pasted image 20251231080828.png",
-    "Pasted image 20251231080818.png",
-    "Pasted image 20251231080621.png",
-    "Règle",
-    "Plan d'existence/Plan Spécifique",
-    "Partie/Synopsis",
-    "Partie/PNJ",
-    "Partie",
-    "Jeu/Fiche",
-    "Jeu",
-    "Image",
-    "Dieux/Panthéon.canvas",
+    "Sans titre.base",
+    "Classes/Roublard/Roublard.md",
+    "Classes/Roublard/Sous Classe Arcane Trickster.md",
+    "Classes/Rôdeur/Rôdeur.md",
+    "Classes/Paladin/Paladin.md",
+    "Classes/Paladin/L’Oathbreaker.md",
+    "Classes/Occultiste/Occultiste.md",
+    "Classes/Moine/Moine.md",
+    "Classes/Magicien/Magicien.md",
+    "Classes/Guerrier/Guerrier.md",
+    "Classes/Ensorceleur/Ensorceleur.md",
+    "Classes/Druide/Druide.md",
+    "Classes/Clerc/Clerc.md",
+    "Classes/Barde/Barde.md",
+    "Classes/Barbare/Barbare.md",
+    "Classes/Barbare/Sous Classe Voie de l’arbre-monde.md",
+    "Classes/Artificier/Artificier.md",
+    "Classes/Classe.md",
+    "Race/Wemic.md",
+    "Race/Triton.md",
+    "Race/Tortue.md",
+    "Race/Tieffelin.md",
+    "Race/Tabaxi.md",
+    "Race/Svirfnebelins.md",
+    "Image/Pasted image 20251231063828.png",
+    "Image/Pasted image 20251231065213.png",
+    "Image/Pasted image 20251231072740.png",
+    "Image/Pasted image 20251231072724.png",
+    "Image/Pasted image 20251231070058.png",
+    "Image/Pasted image 20251231070037.png",
+    "Image/Pasted image 20251231070027.png",
+    "Image/Pasted image 20251231070015.png",
+    "Image/Pasted image 20251231065953.png",
+    "Image/Pasted image 20251231065941.png",
     "Classes/work in progess ne pas utiliser",
+    "Sans titre.canvas",
+    "Partie/PNJ",
+    "Partie/Synopsis",
+    "Partie",
+    "Image",
+    "Plan d'existence/Plan Spécifique",
+    "Plan d'existence/Plans d'existences.canvas",
+    "Jeu/Fiche/Personnage",
     "Bestiaire/Bestiaire personnalisé",
-    "Panthéon.canvas"
+    "Bestiaire/Bestiaire classique",
+    "Dieux/Panthéon.canvas"
   ]
 }

@@ -1,3 +1,4 @@
+[[Race]]
 ## Minotaure
 
 ![Minotaure](https://www.donjondudragon.fr/site/images/drs/races/minotaure.jpg)Ces détails sont pour le jeu général dans les campagnes standards. Les minotaures d'autres mondes peuvent différer (notamment dans le monde de Krynn, dans la campagne de Dragonlance).

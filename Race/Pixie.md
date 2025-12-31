@@ -1,3 +1,4 @@
+[[Race]]
 ## Pixie
 
 ![Pixie](https://www.donjondudragon.fr/site/images/drs/races/pixie.jpg)Les pixies sont parmi les plus intelligentes et malicieuses des races féériques. Ils rôdent dans d'idylliques sous-bois, prenant grand plaisir à harasser les passants avec leurs blagues et farces. S'amuser est le but de presque tout pixie, et leur définition de l'amusement est souvent liée à leurs blagues.

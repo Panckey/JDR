@@ -1,3 +1,4 @@
+[[Ensorceleur]]
 ![ensorceleur dnd sous classe](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/12/ensorceleur-femme-donjon-et-dragon.jpg?resize=564%2C936&ssl=1)
 
 ### Sorcellerie Aberrante

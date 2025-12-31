@@ -1,3 +1,4 @@
+[[Race]]
 ## Homme hybride
 
 ![Homme hybride](https://www.donjondudragon.fr/site/images/drs/races/hommehybride.jpg)Les hommes hybrides combinent les pires traits de toutes les espèces, comprenant les humains, orques, gnolls, ogres, nains, hobgobelins, elfes, gobelours et batrasogs. Il n'y a pas deux hommes hybrides identiques, mais ils ont tous l'air d'une combinaison mal construite de différentes races humanoïdes.

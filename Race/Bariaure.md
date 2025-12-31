@@ -1,3 +1,4 @@
+[[Race]]
 ## Bariaure
 
 Le bariaure est un être des Plans Supérieurs qui ressemble à un centaure. Son aspect tient de l'homme et du bélier, ou de la femme et de la brebis. De taille humaine, il a le corps d'un grand bouc, ainsi que le torse et les bras d'un humain. Sa tête unit des traits humains et animaux. Les mâles ont des cornes de bélier, mais les femelles en sont dépourvues.

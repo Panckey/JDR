@@ -1,3 +1,4 @@
+[[Magicien]]
 # Magicien : école d’illusion
 
 ![école de l'illusion magicien dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2023/05/illusion-ecole-magicien-dnd.jpg?resize=543%2C768&ssl=1)

@@ -1,3 +1,4 @@
+[[Paladin]]
 ![Paladin : serment de dévotion](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/03/serment-devotion-paladin.png?resize=580%2C725&ssl=1)
 
 ### Serment de Dévotion

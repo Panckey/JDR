@@ -1,3 +1,4 @@
+[[Race]]
 ## Ogre mage
 
 ![Ogre mage](https://www.donjondudragon.fr/site/images/drs/races/ogremage.jpg)Les ogres mages ont une peau bleu clair, vert clair ou brun pâle. Des cornes d'ivoire émergent de leurs fronts. Ils mesurent 3,15 m, ont des ongles noirs, des yeux sombres aux pupilles blanches, et des dents et défenses blanches. Ils préfèrent les vêtements, armes et armures orientales.

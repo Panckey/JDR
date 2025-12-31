@@ -1,3 +1,4 @@
+[[Guerrier]]
 ![guerrier champion dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2025/11/guerrier-dungeons-and-dragons.webp?resize=580%2C870&ssl=1)
 
 ### Voie du Champion

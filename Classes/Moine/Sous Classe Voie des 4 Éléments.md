@@ -1,3 +1,4 @@
+[[Moine]]
 ![Moine : voie des 4 éléments](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/03/moine-voie-quatre-elements.png?resize=564%2C872&ssl=1)
 
 ### Guerrier des Éléments

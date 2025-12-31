@@ -1,3 +1,4 @@
+[[Race]]
 ## Homme-bête
 
 ![Homme-bête](https://www.donjondudragon.fr/site/images/drs/races/hommbete.jpg)Les hommes-bêtes sont des humanoïdes petits et minces avec une fine fourrure vert sombre ou olive. Une couche intérieure d'épaisse fourrure noire se trouve sous celle-ci, ce qui leur donne un talent naturel pour le camouflage. Les hommes-bêtes peuvent instinctivement créer des motifs de rayures ou de points sur leur corps. La couleur les aide à se fondre dans la forêt qu'ils hantent.

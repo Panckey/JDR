@@ -15,9 +15,9 @@ PP = Pièce de platine
 
 # Provision
 
-Besoin de 20 provisions pour un long repos sauf auberge
+Besoin de 20 provisions par personne pour un long repos sauf auberge
 
-20 provisions coutent 5 PC
+20 provisions coutent 5 PA
 
 # Map
 

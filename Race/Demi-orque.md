@@ -1,3 +1,4 @@
+[[Race]]
 ## Demi-orque
 
 ![Demi-orque](https://www.donjondudragon.fr/site/images/drs/races/demiorque.jpg)Les demi-orques proviennent de l'union d'orques et de virtuellement toutes les races humaines et demi-humaines à l'exception notable des elfes. Ces rejetons ressemblent plutôt à leurs parents orques, mais un petit nombre d'entre eux peuvent passer pour d'affreux humains. Les PJ demi-orques sont considérés provenir des 10% des hybrides orques/humains qui peuvent passer pour d'affreux humains. Ils ont la capacité de surpasser leur héritage orque, atteignant des limites que l'orque normal ne peut atteindre. Toutefois, ils ont du mal à se trouver une place dans l'une des deux sociétés, aucune ne leur faisant confiance.

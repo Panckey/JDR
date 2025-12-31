@@ -1,3 +1,4 @@
+[[Magicien]]
 # Magicien : école de transmutation
 
 ![école de la transmutation dnd magicien](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2023/05/transmutation-ecole-magicien-dnd.jpg?resize=564%2C752&ssl=1)

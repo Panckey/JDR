@@ -1,3 +1,4 @@
+[[Race]]
 ## Satyre
 
 ![Satyre](https://www.donjondudragon.fr/site/images/drs/races/satyre.jpg)Les satyres, moitié humains moitié boucs, sont une race d'êtres aimant le plaisir. Comme les sylvestres clairières où ils résident, les satyres sont l'incarnation de la nature, de tout ce qui est sauvage et laissé à soi-même.

@@ -1,3 +1,4 @@
+[[Race]]
 ## Petite-gens - grand-gars
 
 Cette race de petites-gens n'est pas aussi commune que les Costauds ou les Pieds-Velus, mais on en trouve parfois un bon nombre dans les forêts tempérées. Ils font un peu plus de 1.20 m, mais sont fin et élancés et ne pèsent guère plus que les Pieds-Velus. Ils portent leurs cheveux longs, souvent couronnés d'une petite coiffure de couleur vive.

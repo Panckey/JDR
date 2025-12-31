@@ -1,3 +1,4 @@
+[[Moine]]
 ![Moine de la miséricode DnD](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2025/11/image-2.png?resize=238%2C596&ssl=1)
 
 ### Guerrier de la Miséricorde

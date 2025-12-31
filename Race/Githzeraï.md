@@ -1,3 +1,4 @@
+[[Race]]
 ## Githzeraï
 
 Ces mystérieux humanoïdes résident désormais dans les Limbes, mais sont originaires du Plan Primaire, et d'un endroit appelé Gith. Leur histoire se perd dans les... limbes, mais prend ses racines dans une haine ancestrale envers les flagelleurs mentaux, ainsi qu'envers leurs cousins githyanki. Jadis, githzeraï et githyanki étaient un même peuple, sous l'esclavagisme des flagelleurs mentaux, mais des différends les ont séparés en deux espèces ennemies. On ne sait plus rien du motif de ce schisme, mais la vendetta sanglante continue sans relâche.

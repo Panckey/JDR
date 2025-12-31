@@ -1,3 +1,4 @@
+[[Race]]
 ## Gnome - des rochers
 
 ![Gnome des rochers](https://www.donjondudragon.fr/site/images/drs/races/gnomerochers.jpg)Les gnomes des rochers sont le type le plus courant de gnomes parmi les mondes connus, et quand une personne parle d'un "gnome" il y a toutes les chances qu'il s'agisse d'un gnome des rochers. Même s'il ne s'agit pas d'une race très abondante par rapport aux humains et autres demi-humains, on les rencontre dans de nombreux environnements, et ils n'ont pas de préférence marquée pour un climat ou un autre. Ils ont néanmoins tendance à établir leurs demeures dans des zones comprenant beaucoup de rochers (même s'ils sont invisibles sous l'argile et la forêt).

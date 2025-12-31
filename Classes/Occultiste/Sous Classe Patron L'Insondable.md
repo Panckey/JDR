@@ -1,3 +1,4 @@
+[[Occultiste]]
 L'Insondable
 
 Liste des sorts étendu ( lvl 1,3,5,7 et 9)

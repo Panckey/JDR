@@ -1,3 +1,4 @@
+[[Barde]]
 ![Donjons et Dragons barde](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/11/barde-donjon-et-dragon-musique.jpeg?resize=564%2C846&ssl=1)
 
 ### Collège de la Vaillance

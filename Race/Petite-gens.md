@@ -1,3 +1,4 @@
+[[Race]]
 ## Petite-gens
 
 Comme leur nom l’indique, les petites-gens sont des êtres petits et bien en chair, qui ressemblent beaucoup à des humains en réduction. Leur visage est rond et large, avec des joues rebondies. Leurs cheveux sont bouclés et le dessus de leurs pieds est couvert de poils abondants et épais. Leur espérance de vie est d’environ 150 ans. Au singulier, on parle d’une petite-personne ou, si on veut préciser le sexe, d’un petit-homme ou d’une petite-femme.

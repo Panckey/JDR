@@ -14,14 +14,12 @@ De jeunes aventurier fauché, cela fais un mois qu'ils sont sur les routes de ce
 [Chef gobelin](https://www.aidedd.org/dnd/monstres.php?vf=gobelin-chef)
 ### Récompense :
 
-7 pièce d'or + Loot gobelin, loups + Provisions
+3 pièce d'or + Loot gobelin, loups + Provisions
 Sur le Chef gobelin : [carte des oracles](https://www.aidedd.org/dnd/om.php?vf=cartes-des-oracles) [Dé de charlatant](https://www.aidedd.org/dnd/om.php?vf=de-de-charlatan) et 1 potion de guérison par joueur
 
 ### EXP
 
-Gobelins : 250 EXP
-Loup : 50 EXP par loup
-Chef gobelin : 200 EXP
+LVL 2
 ## Note :
 
 Le chef gobelin une fois tué se réduira en poussière noire (Signe de pouvoir Divin)

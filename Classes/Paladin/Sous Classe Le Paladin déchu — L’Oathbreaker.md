@@ -1,3 +1,4 @@
+[[Paladin]]
 ![Paladin : serment de vengeance](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/03/serment-de-vengeance.png?resize=500%2C644&ssl=1)
 
 ### Le Paladin déchu — L’Oathbreaker

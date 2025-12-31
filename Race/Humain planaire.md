@@ -1,3 +1,4 @@
+[[Race]]
 ## Humain planaire
 
 Aussi omniprésents que leurs cousins du Plan Primaire, les humains se trouvent tout simplement partout, dans n'importe quel environnement. Les humains ont bâti des civilisations en tous lieux, des cavernes hurlantes du Pandémonium aux profondeurs du Plan du Feu. A défaut de talents et d'habilités spéciaux dus à leur race, ils compensent cela par la détermination et la volonté de réaliser et de réussir, quelques soient les circonstances ou les obstacles.

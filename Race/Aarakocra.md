@@ -1,3 +1,4 @@
+[[Race]]
 ![[Pasted image 20251226193118.png]]
 [[Race]]
 ![[Pasted image 20251226193131.png]]

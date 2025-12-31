@@ -1,1 +1,2 @@
+[[Barde]]
 ![[Pasted image 20251231064757.png]]

@@ -1,3 +1,4 @@
+[[Race]]
 ## Gobelours
 
 ![Gobelours](https://www.donjondudragon.fr/site/images/drs/races/gobelours.jpg)Les gobelours sont des cousins géants et poilus des gobelins. Ils sont grands, envrion 2 m, avec un corps musclé et une apparence de vrai carnivore. Ils ont une peau qui va d'un jaune léger au jaune brun, avec des poils épais qui peuvent aller du brun ou rouge brique. Des yeux bestiaux d'un blanc verdâtre avec des pupilles rouges ressortent de leurs visages sauvages. Des oreilles en pointe se dressent sur leurs têtes, et leurs bouches sont garnies de long crocs acérés.

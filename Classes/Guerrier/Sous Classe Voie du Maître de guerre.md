@@ -1,3 +1,4 @@
+[[Guerrier]]
 ![Maître de guerre donjons et dragons](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/09/guerrier-combattant-dans-donjon-et-dragon.png?resize=564%2C968&ssl=1)
 
 ### Voie du Maître de guerre

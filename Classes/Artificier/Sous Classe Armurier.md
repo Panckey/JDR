@@ -1,3 +1,4 @@
+[[Artificier]]
 ![[Pasted image 20251226220149.png]]
 # Armurier
 

@@ -1,3 +1,4 @@
+[[Race]]
 ## Petite-gens - pieds-velus
 
 Les petites-gens les plus courants habitent partout où se trouvent les humains. Ils vivent en grande partie comme les humains, mais préfèrent les habitations rurales et les villages aux villes et cités. Leurs activités sont centrées sur l'utilitaire et l'ordinaire : fermiers, meuniers, aubergistes, tisseurs, brasseurs, tailleurs, boulangers et marchands sont courants dans la société des Pieds-Velus.

@@ -1,3 +1,4 @@
+[[Race]]
 ## Homme-lézard
 
 ![Homme-lézard](https://www.donjondudragon.fr/site/images/drs/races/hommelezard.jpg)Les hommes-lézards sont les chefs naturels des marécages qu'ils habitent. Ces humanoïdes reptiliens sauvages, semi-aquatiques, vivent de récupération et de raids. Les tribus moins hostiles tendent à être pêcheurs et cueilleurs, mais il semble que les tribus plus violentes aimant la guerre soient plus répandues.

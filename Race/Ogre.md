@@ -1,3 +1,4 @@
+[[Race]]
 ## Ogre
 
 ![Ogre](https://www.donjondudragon.fr/site/images/drs/races/ogre.jpg)Les ogres sont d'horribles et grands humanoïdes, d'environ 2,7 m. La plupart sont avaricieux, vivent d'embuscades, raids et de vol simple. Ils tendent à être d'un tempérament exécrable, méchants et très violents. De grosses verrues noires couvrent leur peau jaune et morte. Leurs yeux sont violets et blancs, les dents et griffes oranges ou noires, et ils ont de longs cheveux graisseux dont la couleur va du bleu-noir au vert sombre.

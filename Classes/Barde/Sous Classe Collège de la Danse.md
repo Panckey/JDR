@@ -1,3 +1,4 @@
+[[Barde]]
 ![Barde de la vaillance DnD](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/11/barde-donjon-et-dragon-dd.jpeg?resize=563%2C796&ssl=1)
 
 ### Collège de la Danse

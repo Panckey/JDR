@@ -1,3 +1,4 @@
+[[Magicien]]
 # Magicien : école d’invocation
 
 ![école d'invocation magicien dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2023/05/ecole-dinvocation-magicien-dnd.jpg?resize=580%2C773&ssl=1)

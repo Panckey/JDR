@@ -1,3 +1,4 @@
+[[Paladin]]
 ![Paladin : Donjon et Dragon](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/02/paladin-dd.jpeg?resize=564%2C933&ssl=1)
 
 ### Serment de Gloire

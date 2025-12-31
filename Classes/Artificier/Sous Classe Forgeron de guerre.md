@@ -1,3 +1,4 @@
+[[Artificier]]
 ![[Pasted image 20251226220509.png]]
 ### [Forgeron de guerre](https://www.aidedd.org/dnd-5/unearthed-arcana/artificier/#forgeron)
 

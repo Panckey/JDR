@@ -1,3 +1,4 @@
+[[Race]]
 ## Elfe - haut
 
 Les hauts-elfes sont les plus communs de tous les elfes, mais aussi les plus ouverts et les plus amicaux. Ils n'ont aucune scrupule à parcourir le monde qui s'étend à l'extérieur de leurs royaumes, et le font beaucoup plus souvent que les autres elfes. Comme ce sont eux qui ont le plus de contacts avec les non-elfes, et que leur sous-race est la plus aventureuse, la plupart des PJs elfes seront vraisemblablement des hauts-elfes.

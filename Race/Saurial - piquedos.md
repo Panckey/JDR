@@ -1,3 +1,4 @@
+[[Race]]
 ## Saurial - piquedos
 
 ![Piquedos](https://www.donjondudragon.fr/site/images/drs/races/saurialpiquedos.jpg)Les piquedos sont grands, environ 2 m, avec un torse imposant et un visage amical. Leur nom vient des grandes écailles qui ornent leur colonne vertébrale, du haut de la tête à l'extrémité de la queue qui fait presque la taille du corps.

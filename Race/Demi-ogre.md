@@ -1,3 +1,4 @@
+[[Race]]
 ## Demi-ogre
 
 ![Demi-ogre](https://www.donjondudragon.fr/site/images/drs/races/ogre.jpg)Les demi-ogres descendent d'un couple mixte humain/ogre. Ils ont beaucoup de la taille et force dans leur héritage ogre, mais conservent l'intelligence et la raison propres aux humains. Les demi-ogres mesurent entre 2,1 et 2,4 m, et ressemblent à d'immenses humains. La couleur de peau typique des ogres est fortement diminuée chez les demi-ogres, leurs cheveux sont ternes et, généralement mais pas toujours, ils ont des yeux d'humains.

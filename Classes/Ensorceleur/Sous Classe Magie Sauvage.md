@@ -1,3 +1,4 @@
+[[Ensorceleur]]
 ![ensorceleur magie sauvage dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/12/ensorceleur-magie-sauvage-dnd.jpg?resize=564%2C723&ssl=1)
 
 ### Magie Sauvage

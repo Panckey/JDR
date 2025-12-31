@@ -1,3 +1,4 @@
+[[Barbare]]
 ![barbare berserker donjon et dragon](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/04/barbare-berserker-donjon-et-dragon.jpeg?resize=563%2C767&ssl=1)
 
 ### Voie du Berserker

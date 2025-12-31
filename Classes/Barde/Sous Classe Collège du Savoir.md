@@ -1,3 +1,4 @@
+[[Barde]]
 ![collège du savoir barde dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/11/college-du-savoir-barde-dnd.jpeg?resize=563%2C813&ssl=1)
 
 ### Collège du Savoir

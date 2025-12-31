@@ -1,3 +1,4 @@
+[[Moine]]
 ![Moine de la voie de l'ombre](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/03/moine-voie-ombre.png?resize=564%2C378&ssl=1)
 
 ### Guerrier de l’Ombre

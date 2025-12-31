@@ -1,3 +1,4 @@
+[[Race]]
 ## Hobgobelin
 
 ![Hobgobelin](https://www.donjondudragon.fr/site/images/drs/races/hobgobelin.jpg)Les hobgobelins sont des humanoïdes trapus avec une peau poilue allant du rouge sombre au gris rouge. L'hobgobelin type mesure 1,95 m, a des yeux jaunes ou brun foncé et des crocs jaunes et acérés. Ils aiment les vêtements aux couleurs vives, spécialement rouge sang.

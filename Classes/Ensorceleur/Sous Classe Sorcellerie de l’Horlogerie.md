@@ -1,3 +1,4 @@
+[[Ensorceleur]]
 ![ensorceleur dungeons and dragons sous classe](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2025/11/ensorceleur-dungeons-and-dragons_11zon.webp?resize=580%2C870&ssl=1)
 
 ### Sorcellerie de l’Horlogerie

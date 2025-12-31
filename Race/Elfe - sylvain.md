@@ -1,3 +1,4 @@
+[[Race]]
 ## Elfe - sylvain
 
 Bien que les elfes des bois (ainsi qu'on les nomme généralement) descendent des mêmes ancêtres que les autres elfes, ils sont de loin les plus primitifs de leur race. Leurs vies se focalisent uniquement sur la survie dans les bois, plutôt que sur le plaisir. Pourtant c'est cette existence qui les rend les plus heureux. L'art sophistiqué ou la musique délicate les laissent indifférents, ils préfèrent mener une vie simple. Leur musique préférée est celle du vent dans les arbres, du hurlement des loups et des trilles des oiseaux. Leur art - s'exprimant sous la forme de tatouages - s'inspire du cycle des saisons.

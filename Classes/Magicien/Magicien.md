@@ -1,3 +1,4 @@
+[[Classe]]
 ## Création de l’aventurier
 
 **Points de vie** :

@@ -1,3 +1,4 @@
+[[Magicien]]
 # Magicien : école d’évocation
 
 ![école d'évocation magicien dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2023/05/ecole-devocation-magicien-dnd.jpg?resize=564%2C752&ssl=1)

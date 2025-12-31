@@ -1,3 +1,4 @@
+[[Race]]
 ## Saurial - cornu
 
 ![Cornu](https://www.donjondudragon.fr/site/images/drs/races/saurialcornu.jpg)Les cornus sont les plus grands des saurials, près de 3 m avec une queue plus longue que le corps. Des cornes pointues émergent de leur tête, et des grands plaques osseuses du cou, qui ont valu leur nom à cette variété de saurials.

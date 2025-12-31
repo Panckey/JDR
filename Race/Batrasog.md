@@ -1,3 +1,4 @@
+[[Race]]
 ## Batrasog (avancé)
 
 ![Batrasog](https://www.donjondudragon.fr/site/images/drs/races/batrasog.jpg)Les batrasogs sont des humanoïdes bipèdes ressemblant à des grenouilles, amphibies, habitant les marécages, marais et autres endroits humides. Ils sont couverts d'une peau douce, marbrée vert olive leur offrant une protection naturelle. Ils ont des faces de grenouilles énormes, caractérisées par une large bouche et des yeux globuleux. Comme les grenouilles, leurs pieds et leurs mains sont palmés. Ils ne portent pas de vêtements mais utilisent des armures, armes et boucliers primitifs.

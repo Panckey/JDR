@@ -1,3 +1,4 @@
+[[Race]]
 ## Gnome - des forêts
 
 ![Gnome des forêts](https://www.donjondudragon.fr/site/images/drs/races/gnomeforets.jpg)Ces gnomes ne sont pas aussi communs que les autres, mais occupent une place importante dans leur environnement. Les gnomes des forêts sont timides et isolationnistes, et souvent la simple arrivé de colons humains dans leur domaine suffit à les faire émigrer vers un nouvel endroit resté vierge. Malgré tout, il est arrivé qu'ils aident des aventuriers d'autres races et l'on sait qu'ils sont très amicaux envers les elfes.

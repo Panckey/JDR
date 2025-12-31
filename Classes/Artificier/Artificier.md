@@ -1,5 +1,4 @@
-
-# Artificier
+[[Classe]]
 
 Version officielle du **Tasha's Cauldron of Everything** de cette classe publiée initialement dans la rubrique Unearthed Arcana.
 

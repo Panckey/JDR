@@ -1,3 +1,4 @@
+[[Classe]]
 ## Création du Barde dans DnD
 
 _Mise à jour de 2025 basée sur la dernière version des règles de Dungeons and Dragons_

@@ -1,3 +1,4 @@
+[[Artificier]]
 ![[Pasted image 20251226220050.png]]
 ## [Spécialités d'artificier](https://www.aidedd.org/dnd-5/unearthed-arcana/artificier/#voie)
 

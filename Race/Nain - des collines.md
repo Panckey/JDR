@@ -1,3 +1,4 @@
+[[Race]]
 ## Nain - des collines
 
 ![Nain des collines](https://www.donjondudragon.fr/site/images/drs/races/naincollines.jpg)Les nains des collines vivent dans des régions de collines mouvementées. Leurs citadelles se trouvent avant tout sous terre, bien qu'ils aient fréquemment des avant-postes en surface.

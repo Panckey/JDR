@@ -1,3 +1,4 @@
+[[Race]]
 ## Dame des cygnes
 
 ![Dame des cygnes](https://www.donjondudragon.fr/site/images/drs/races/damecygnes.jpg)Les dames des cygnes sont des humaines qui peuvent se transformer en cygnes (mais n'en sont pas réellement). Sous forme humaine, elles sont indiscernables d'autres personnes, ressemblant par leur équipement à des rôdeuses ou druidesses. Quand elles se changent en cygnes, leur équipement reste là. Donc, les dames des cygnes tentent de cacher ces objets avant de se transformer.

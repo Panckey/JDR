@@ -1,3 +1,4 @@
+[[Race]]
 ## Elfe - gris
 
 Les elfes gris sont à la fois les plus nobles et les plus secrets de tous les elfes. Ils se sont retirés du monde après y avoir effectué la tâche qu'ils s'étaient assignée, à savoir s'assurer que le monde s'orientait vers le bien. Les elfes gris se considèrent comme les protecteurs universels du bien, mais ne s'arrachent à leurs montagnes et leurs prairies que lorsqu'il s'agit de sauver les races inférieures d'un mal puissant.

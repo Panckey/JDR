@@ -1,3 +1,4 @@
+[[Barde]]
 ![barde donjon et dragon](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2025/11/barde-donjon-et-dragon.jpg?resize=580%2C580&ssl=1)
 
 ### Collège du Glamour

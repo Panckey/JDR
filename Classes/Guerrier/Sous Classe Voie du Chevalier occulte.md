@@ -1,3 +1,4 @@
+[[Guerrier]]
 ![chevalier occulte classe de guerrier donjons et dragons](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/09/chevalier-occulte-donjon-et-dragon.jpeg?resize=564%2C990&ssl=1)
 
 ### Voie du Chevalier occulte

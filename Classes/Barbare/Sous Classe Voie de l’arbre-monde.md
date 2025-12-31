@@ -1,3 +1,4 @@
+[[Barbare]]
 ![Voie de l'arbre monde de la sous classe du barbare dans DnD](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2025/11/barbare-dungeons-and-dragons.webp?resize=580%2C543&ssl=1)
 
 ### Voie de l’arbre-monde

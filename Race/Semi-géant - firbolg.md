@@ -1,3 +1,4 @@
+[[Race]]
 ## Semi-géant - firbolg
 
 ![Firbolg](https://www.donjondudragon.fr/site/images/drs/races/firbolg.jpg)Les firbolgs sont les plus puissants des semi-géants. Ils ressemblent à des humains normaux qui auraient une taille de 3,3 m et un poids d'environ 400 kg. Les firbolgs élégants portent de longs cheveux et se laissent pousser une épaisse barbe. Leur peau rose est dense et épaisse, leur conférant une CA naturellement basse. Ils ont des voix douces aux consonances profondes et graves.

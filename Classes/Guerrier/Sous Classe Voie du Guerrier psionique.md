@@ -1,3 +1,4 @@
+[[Guerrier]]
 ![guerrier psychique dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2025/11/guerrier-psychique-dnd.jpg?resize=580%2C858&ssl=1)
 
 ### Voie du Guerrier psionique

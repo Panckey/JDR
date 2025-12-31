@@ -1,1 +1,2 @@
+[[Magicien]]
 ![[Pasted image 20251231071908.png]]![[Pasted image 20251231071917.png]]

@@ -1,3 +1,4 @@
+[[Occultiste]]
 ![occultiste](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/10/occultiste-dans-dnd.jpeg?resize=564%2C752&ssl=1)
 
 ### Patron Céleste

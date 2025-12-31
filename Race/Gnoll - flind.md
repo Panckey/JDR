@@ -1,3 +1,4 @@
+[[Race]]
 ## Gnoll - flind
 
 ![Flind](https://www.donjondudragon.fr/site/images/drs/races/gnollflind.jpg)Les flinds sont similaires aux gnolls, mais plus courts et larges. Le flind moyen mesure 1.95 m. Ils sont plus musclés que les gnolls moyens, et généralement plus forts. Une fourrure courte et brune couvre leur corps, et leurs oreilles sont plus arrondies que celles des gnolls.

@@ -1,3 +1,4 @@
+[[Race]]
 ## Nain - des montagnes
 
 ![Nain des montagnes](https://www.donjondudragon.fr/site/images/drs/races/nainmontagnes.jpg)Ces nains vivent sous les montagnes. Leurs bastions sont habituellement isolés et ils ont peu de contacts avec les autres races. Les nains des montagnes tendent à aimer leur solitude, et découragent activement les visiteurs d'approcher leurs citadelles.

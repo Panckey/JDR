@@ -1,1 +1,2 @@
+[[Paladin]]
 ![[Pasted image 20251231075807.png]]![[Pasted image 20251231075820.png]]

@@ -1,3 +1,4 @@
+[[Race]]
 ## Gnome - svirfnebelin
 
 ![Svirfnebelin](https://www.donjondudragon.fr/site/images/drs/races/gnomeprofondeurs.jpg)Pour la plupart des habitants de la surface, les gnomes de cette espèce sont de mystérieux occupants des Profondeurs dont on sait peu de choses. Ceux qui les jugent d'après leur apparence voient de petites créatures contrefaites et pensent qu'il s'agit de l'équivalent maléfique des gnomes des rochers, l'équivalent gnome des drows ou des duergars. En fait, ils ne sont pas plus maléfiques que leurs cousins plus nombreux ; leur réputation sinistre est un simple résultat de l'ignorance. Les gnomes des profondeurs sont la plus taciturne des races gnomiques, survivant à la force du poignet dans un environnement extrêmement hostile.

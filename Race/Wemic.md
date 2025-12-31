@@ -1,3 +1,4 @@
+[[Race]]
 ## Wemic
 
 ![Wemic](https://www.donjondudragon.fr/site/images/drs/races/wemic.jpg)Les wemics sont un peu humains, un peu lions, dans une combinaison semblable au mélange homme-cheval chez le centaure. Le corps léonin du wemic a un torse humain là où serait le cou d'un lion. Les wemics atteignent 3 m de long, pour une hauteur de 1,8 à 2,1 m sur quatre pattes.

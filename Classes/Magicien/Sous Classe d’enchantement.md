@@ -1,3 +1,4 @@
+[[Magicien]]
 # Magicien : école d’enchantement
 
 ![ecole d'enchantement magicien dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2023/05/ecole-denchantement-magicien-dnd.jpg?resize=564%2C796&ssl=1)

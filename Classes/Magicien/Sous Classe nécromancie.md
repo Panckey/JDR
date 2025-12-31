@@ -1,3 +1,4 @@
+[[Magicien]]
 # Magicien : école de nécromancie
 
 ![école de nécromancie magicien dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2023/05/ecole-de-necromancie-donjon-et-dragon-aka-dnd.jpg?resize=564%2C914&ssl=1)

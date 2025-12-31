@@ -1,3 +1,4 @@
+[[Race]]
 ## Alaghe
 
 ![alaghe](https://www.donjondudragon.fr/site/images/drs/races/alaghe.jpg)Les alaghes, des cousins distants du yéti, sont des humanoïdes des forêts. Ils ont un coffre large, un cou court et une large tête plate. Leurs courtes jambes sont épaisses, leurs mains et pieds grands, et leur fourrure épaisse est blonde, rousse, brune ou anthracite. Ils mesurent environ 1.80 m et pèsent 150 kg.

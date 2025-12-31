@@ -1,3 +1,4 @@
+[[Magicien]]
 # Magicien : école de divination
 
 ![ecole de divination magicien dnd](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2023/05/ecole-de-divination-magicien-dnd.jpg?resize=564%2C681&ssl=1)

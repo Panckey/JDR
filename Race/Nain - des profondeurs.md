@@ -1,3 +1,4 @@
+[[Race]]
 ## Nain - des profondeurs
 
 ![Nain des profondeurs](https://www.donjondudragon.fr/site/images/drs/races/nainprofondeurs.jpg)Les nains des profondeurs vivent loin sous la surface de la terre. Il se pourrait qu'ils aient toujours vécu ainsi, ou peut-être se sont-ils enfoncés dans les profondeurs pour échapper à un redoutable cataclysme, à un monstre errant, ou peut-être y ont ils été conduits par des nains des montagnes ou des collines.

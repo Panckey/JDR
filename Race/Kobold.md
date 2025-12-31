@@ -1,3 +1,4 @@
+[[Race]]
 ## Kobold
 
 ![Kobold](https://www.donjondudragon.fr/site/images/drs/races/kobold.jpg)Les kobolds sont de petits humanoïdes qui atteignent 90 cm. Ils ont une peau écailleuse de brun sombre à noir rouille, et une odeur pire que tout, sauf celle d'un autre kobold. Leurs yeux émettent une lumière rouge vif et ils ont deux minuscules cornes sur leurs têtes canines.

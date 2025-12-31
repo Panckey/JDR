@@ -1,3 +1,4 @@
+[[Moine]]
 ![Moine de la main ouverte](https://i0.wp.com/donjonetdragon.fr/wp-content/uploads/2022/03/moine-main-ouverte.png?resize=563%2C715&ssl=1)
 
 ### Guerrier de la Main Ouverte

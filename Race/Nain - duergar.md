@@ -1,3 +1,4 @@
+[[Race]]
 ## Nain - duergar
 
 ![Duergar](https://www.donjondudragon.fr/site/images/drs/races/nainduergar.jpg)Les duergars, ou nains gris, vivent dans les profondeurs de la terre, parfois en-dessous des nains des profondeurs. Ils s'aventurent rarement en surface, trouvant cela pénible, excepté durant des journées lourdes et sombres, ou la nuit. La lumière ne leur cause pas de dégâts mais affecte leur aptitude à voir clairement.

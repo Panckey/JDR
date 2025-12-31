@@ -1,3 +1,4 @@
+[[Race]]
 ## Fremlin
 
 ![Fremlin](https://www.donjondudragon.fr/site/images/drs/races/fremlin.jpg)Les fremlins sont des gremlins amicaux, pratiquement inoffensifs. Comme les autres gremlins, ce sont de petits gobelinoïdes ailés, ne mesurant pas plus de 30 cm. Toutefois, les fremlins tendent à être grassouillets et couleur ardoise.

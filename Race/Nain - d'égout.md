@@ -1,3 +1,4 @@
+[[Race]]
 ## Nain - d'égout
 
 ![Nain d'égout](https://www.donjondudragon.fr/site/images/drs/races/nainegout.jpg)Les nains d'égout sont les plus dégénérés de toutes les races naines. Dénués de toute fierté raciale, ils ont fait des vertus de la lâcheté, de la saleté, de la stupidité et de la malignité. Ils vivent dans des citadelles abandonnées, dans des villages humains ou dans des mines et des cavernes désertées, dans des égouts, des décharges, ou dans les taudis des grandes villes et cités. Les elfes ne tolèreraient pas leur dépravation.
