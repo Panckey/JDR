@@ -28,12 +28,12 @@ La connexion dure un nombre de minutes égal à votre niveau d’occultiste, ou 
 
 Vous avez toujours certains sorts préparés grâce à votre patron.
 
-|Niveau d’occultiste|Sorts|
-|---|---|
-|**3**|Clairvoyance, Hunger of Hadar|
-|**5**|Confusion, Summon Aberration|
-|**7**|Modify Memory, Telekinesis|
-|**9**|— _(aucun nouveau sort à ce niveau)_|
+| Niveau d’occultiste | Sorts                                |
+| ------------------- | ------------------------------------ |
+| **3**               | Clairvoyance, Hunger of Hadar        |
+| **5**               | Confusion, Summon Aberration         |
+| **7**               | Modify Memory, Telekinesis           |
+| **9**               | — _(aucun nouveau sort à ce niveau)_ |
 
 #### Niveau 3 : Sorts Psychiques
 
