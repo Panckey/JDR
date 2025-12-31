@@ -380,7 +380,3 @@ Les villageois et les citadins sont fiers de leur comportement civilisé qui les
 ### Combattre jusqu’à la mort
 
 Parmi son peuple, un vrai barbare est aussi rare que le guerrier habile de la ville, qui joue un rôle similaire, conçu pour protéger son peuple et être un chef de guerre. La vie dans les régions sauvages du monde est pleine de dangers : tribus rivales, climats rudes et monstres terrifiants. Les barbares s’y mettent en premier, pour que leur peuple n’ait pas à le faire. Leur courage face au danger en fait de parfaits aventuriers. L’errance est souvent le mode de vie de leurs tribus indigènes, de sorte que la vie généralement sans attaches des aventuriers ne limite pas les barbares. Ce que les barbares peuvent manquer dans la structure familiale de la tribu et de ses membres très unis sera finalement compensé par des liens avec d’autres aventuriers.
-
-
-
-[[Classes]]

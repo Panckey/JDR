@@ -309,6 +309,3 @@ Tous les clercs ne demeurent pas dans les temples. Certains entendent l’appel 
 Sur la route, un clerc est souvent le cœur spirituel du groupe. Il soigne les blessures, protège les âmes et guide ses compagnons par la sagesse autant que par la lumière. Mais il peut aussi être le champion vengeur de sa divinité, prêt à frapper ceux qui défient les dieux.
 
 Qu’ils partent pour convertir, expier, protéger ou combattre, les clercs aventuriers savent que la foi véritable ne se prouve pas dans la prière… mais dans l’épreuve.
-
-
-[[Classes]]

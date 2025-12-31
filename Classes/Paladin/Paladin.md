@@ -433,5 +433,3 @@ Les paladins essaient de maintenir les normes de conduite les plus élevées, ma
 Un paladin qui a rompu un vœu cherche en général l’absolution d’un prêtre ou un autre paladin du même rang que lui. Un paladin peut garder une veillée toute la nuit dans la prière, en signe de repentance. Ou bien, après une cérémonie de pénitence ou de pardon, le paladin repart aussi propre qu’il ne l’était avant de rompre son serment.
 
 Si le paladin a délibérément rompu son serment et n’a montré aucun signe de repentance, les conséquences auraient pu être plus graves. À la discrétion du MD, un paladin impénitent peut être contraint de renoncer à la classe et d’en adopter une autre, ou peut choisir l’option de paladin rompu au serment fournie dans le Guide du Maître
-
-[[Classes]]

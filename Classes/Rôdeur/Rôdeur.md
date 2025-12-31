@@ -436,6 +436,3 @@ Guerriers de la nature sauvage, les rôdeurs se spécialisent dans la chasse aux
 Alors qu’un rôdeur peut gagner sa vie en tant que chasseur, guide ou traqueur, sa véritable mission est de défendre la périphérie de la civilisation contre les ravages des monstres et des hordes humanoïdes venant de l’extérieur. Dans certains endroits, les rôdeurs se rassemblent ou unissent leurs forces dans des cercles druidiques sous la forme d’ordres secrets. Cependant, de nombreux rôdeurs sont autonomes, presque trop, sachant que lorsqu’un dragon ou un groupe d’orcs attaquent, le rôdeur est susceptible d’être la première ou la dernière ligne de défense. Cette intense indépendance rend les rôdeurs idéaux pour l’aventure, car ils se sont habitués à vivre confortablement loin des lits de séchage et des bains chauds. Face aux aventuriers de la ville qui se plaignent des difficultés de la vie sauvage, ils répondent avec amusement, frustration et sympathie.
 
 Mais ils apprennent vite que les autres aventuriers qui peuvent peser dans un combat contre les ennemis de la civilisation valent toute charge supplémentaire. Les citadins gâtés ne savent pas comment se nourrir ou trouver de l’eau fraîche dans l’environnement sauvage, mais ils peuvent briller par d’autres moyens.
-
-
-[[Classes]]

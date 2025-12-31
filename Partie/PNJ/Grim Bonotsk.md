@@ -1,6 +1,6 @@
 PNJ marchand, il propose une quête aux aventuriers pour faire une livraison lors de la [[Partie/Partie 1|Partie 1]]
 
-C'est un Humain de 1m80 il a une stat haute en charisme
+C'est un [[Humain]] de 1m80 il a une stat haute en charisme
 
 Il semble très riche, parle bien, ne se bat pas.
 

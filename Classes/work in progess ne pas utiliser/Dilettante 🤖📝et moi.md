@@ -313,5 +313,3 @@ Gagnez :
 - Gagnez **1 discipline supplémentaire**.
 
 ---
-
-[[Classes]]

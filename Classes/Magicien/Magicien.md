@@ -104,6 +104,3 @@ La vie des magiciens est rarement banale. Pour un magicien, la vie la plus proch
 D’autres magiciens ont vendu leurs services en tant que devins, ont servi dans l’armée ou ont mené une vie de crime ou de domination. Mais l’attrait de la connaissance et du pouvoir éloignera même les sorciers les plus timides de la sécurité de leurs bibliothèques et laboratoires pour explorer des ruines corrompues et des villes perdues.
 
 La plupart des magiciens croient que leurs homologues des civilisations anciennes connaissent des secrets magiques perdus depuis de nombreuses années et que la découverte de ces secrets peut ouvrir la voie à des pouvoirs supérieurs à toute magie disponible aujourd’hui.
-
-
-[[Classes]]

@@ -11,10 +11,14 @@
             "id": "df9072141fe09479",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "Classes/work in progess ne pas utiliser/Disciplines 🤖📝 et moi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disciplines 🤖📝 et moi"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jeu/EXP.md",
+                "file": "Classes/work in progess ne pas utiliser/Disciplines 🤖📝 et moi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour EXP"
+              "title": "Rétrolien pour Disciplines 🤖📝 et moi"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jeu/EXP.md",
+                "file": "Classes/work in progess ne pas utiliser/Disciplines 🤖📝 et moi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de EXP"
+              "title": "Liens sortants de Disciplines 🤖📝 et moi"
             }
           },
           {
@@ -162,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,33 +186,33 @@
   },
   "active": "df9072141fe09479",
   "lastOpenFiles": [
-    "Race/A compléter quand j'aurais pas la flm.md",
-    "Classes.md",
-    "Race/Petite-gens - costaud.md",
-    "Sans titre.base",
-    "Classes/Roublard/Roublard.md",
-    "Classes/Roublard/Sous Classe Arcane Trickster.md",
     "Classes/Rôdeur/Rôdeur.md",
+    "Classes.md",
+    "Classes/Roublard/Roublard.md",
     "Classes/Paladin/Paladin.md",
-    "Classes/Paladin/L’Oathbreaker.md",
     "Classes/Occultiste/Occultiste.md",
     "Classes/Moine/Moine.md",
-    "Classes/Magicien/Magicien.md",
     "Classes/Guerrier/Guerrier.md",
     "Classes/Ensorceleur/Ensorceleur.md",
     "Classes/Druide/Druide.md",
+    "Classes/work in progess ne pas utiliser/Dilettante 🤖📝et moi.md",
     "Classes/Clerc/Clerc.md",
     "Classes/Barde/Barde.md",
     "Classes/Barbare/Barbare.md",
+    "Classes/Magicien/Magicien.md",
+    "Race/Humain.md",
+    "Partie/PNJ/Grim Bonotsk.md",
+    "Race/A compléter quand j'aurais pas la flm.md",
+    "Race/Petite-gens - costaud.md",
+    "Sans titre.base",
+    "Classes/Roublard/Sous Classe Arcane Trickster.md",
+    "Classes/Paladin/L’Oathbreaker.md",
     "Classes/Barbare/Sous Classe Voie de l’arbre-monde.md",
     "Classes/Artificier/Artificier.md",
     "Classes/Classe.md",
     "Race/Wemic.md",
     "Race/Triton.md",
     "Race/Tortue.md",
-    "Race/Tieffelin.md",
-    "Race/Tabaxi.md",
-    "Race/Svirfnebelins.md",
     "Image/Pasted image 20251231063828.png",
     "Image/Pasted image 20251231065213.png",
     "Image/Pasted image 20251231072740.png",

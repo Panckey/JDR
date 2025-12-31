@@ -403,6 +403,3 @@ Les druides sont également préoccupés par le délicat équilibre écologique 
 Les druides considèrent certaines plantes comme sacrées, notamment l’aulne, le frêne, le bouleau, le sureau, le noisetier, le houx, le genévrier, le gui, le chêne, le sorbier, le saule et l’if. Les druides utilisent souvent ces plantes en complément d’un focaliseur druidique, notamment des travées de chêne ou d’if ou des brins de gui.
 
 De même, les druides utilisent ce bois pour fabriquer d’autres objets, tels que des armes ou des boucliers. L’if est associé à la mort et à la renaissance, de sorte que le manche d’une machette ou d’une faucille peut être fait de ce bois. Le frêne est associé à la vie, le chêne est associé à la force. Ces bois font d’excellents bâtons et même des armes complètes telles que des bâtons ou des gourdins et des boucliers. L’aulne est associé à l’air, il peut donc être utilisé pour lancer des armes telles que des fléchettes ou des javelots.
-
-
-[[Classes]]
