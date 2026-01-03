@@ -1,0 +1,11 @@
+Entre tous ces plans, ou bien plus loin que ceux-ci, il existe encore d'autres plans.
+
+#### Demi-plans
+
+Les demi-plans sont des espaces extra-dimensionnels limités et régis par leurs propres règles. Ce sont des morceaux de réalité qui ne semblent être à leur place nulle part ailleurs. Ils peuvent présenter tout un éventail de caractéristiques et existent pour toutes sortes de raisons. Ils peuvent être créés par des sorts ; ils peuvent être le résultat du désir d'une puissante divinité ou d'une autre force ; ils peuvent également exister naturellement, comme des pliures de la réalité détachées du reste de l'univers, ou bien en tant qu'univers à l'état embryonnaire dont le pouvoir grandit lentement. La plupart des demi-plans sont petits et secrets. Ils jouent un rôle de refuge, de chambre forte, voire plus rarement de tombeau ou de prison.
+
+#### Le Royaume lointain
+
+![Le Royaume lointain](https://www.aidedd.org/assets/univers/plans/royaume_lointain.jpg "Le Royaume lointain") Le cosmos compte également certains plans dont la nature n'est pas claire. C'est le cas du **Royaume lointain** qui repousse les limites d'une cosmologie déjà fantastique. C'est l'étrange parmi l'étrange. Le Royaume lointain est en effet un plan (ou peut-être un espace au-delà des plans) terriblement distant et incompréhensible. Les créatures qui y vivent sont bizarres et trop étranges pour qu'un esprit normal puisse en accepter l'idée sans souffrir. Là où une lueur du Royaume lointain s'égare sur le monde, la matière se met à réagir en réponse à des stimuli inexplicables, avant de brûler en cendres ou de prendre vie ; une vie de monstre. Là où le Royaume lointain touche la vie, des monstruosités appelées aberrations sont formées. Certaines, comme les [aboleths](https://www.aidedd.org/dnd/monstres.php?vf=aboleth) et les [flagelleurs mentaux](https://www.aidedd.org/dnd/monstres.php?vf=flagelleur-mental), proviennent de cet endroit. La plupart, cependant, sont des transmutations étranges de formes de vie existantes.
+
+[[Les plans]]

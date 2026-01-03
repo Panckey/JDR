@@ -1,6 +1,32 @@
 
 
-Déesse des ténèbres, de la perte et de l’oubli
+_Déesse des ténèbres et de la perte, NM [Duperie, Mort]_
+
+Aussi vieille que le cosmos, Shar est une des deux divinités qui, avec sa sœur jumelle [[Selûne]], a créé le monde, amenant l'ordre dans le chaos d'Ao. Contre poids de sa tendre et gracieuse sœur, Shar réside dans l'ombre la plus obscure, nourrissant des haines secrètes, des désirs anormaux et la vengeance qui réside dans les recoins sombres du cœur des mortels.
+
+### La Maîtresse de la Nuit
+
+![Shar](https://www.aidedd.org/assets/univers/dieux/shar-symbol.jpg "Shar")
+
+Disque noir bordé d'un liseré
+
+Shar est un reflet de l'obscurité primordiale et du vide parfait qui furent effacés au début du temps par un dieu lointain et insensible. Elle souhaite ardemment retrouver le calme qui accompagne l'inexistence, et elle complote depuis les ombres pour détruire toute forme d'organisation et d'ordre, et nuire à la création elle-même. Depuis ses premières batailles contre Séluné, qui continuent encore de nos jours, Shar a obtenu la suprématie sur la douleur dissimulée mais non oubliée, l'amertume soigneusement entretenue et la revanche froide pour des torts anciens. Profondément tortueuse, elle aime les secrets, les. accords clandestins et les subterfuges. Elle utilise ses adorateurs comme pions dans un jeu pervers contre tout ce qui a été, est et sera. Divinité tutélaire de la Toile d'Ombre, qui est tombée en ruine lors de la Magepeste, tout comme la Toile, la Maîtresse de la Nuit complète ses pouvoirs déjà impressionnants par la tentation et la ruse.
+
+L'attirance de Shar pour le secret est un avantage pour son clergé, et la majorité des habitants de Faerûn connaissent peu de choses sur son culte mystérieux. Tous savent qu'elle est une déesse sombre et revancharde, mais ils sont tout de même nombreux à se tourner vers elle lorsqu'ils sont plongés dans la peine ou le désespoir. Il y a ainsi une croyance tenace qui veut que son clergé aide ceux qui ont été trompés ou qui ont subi une grande perte. Cependant, au lieu de les aider à se décharger du poids de leurs souffrances, les prêtres de Shar renforcent les regrets et le sentiment d'injustice des suppliants, tournant leur attention vers l'aigreur et la vengeance. Les prêtres bienveillants (particulièrement ceux de [Mystra](https://www.aidedd.org/univers/pantheon/mystra/), [Lathandre](https://www.aidedd.org/univers/pantheon/lathandre/) et bien sûr, Séluné) mettent en garde contre les dangers qu'on encourt en recherchant ce réconfort, mais le désespoir est souvent plus fort que la raison, et les rangs du clergé de Shar croissent ainsi à chaque année qui passe.
+
+### Histoire et relation
+
+Lorsque le Seigneur Ao eut créé l'univers, le chaos tourbillonnant se solidifia pour former des divinités jumelles : [Séluné](https://www.aidedd.org/univers/pantheon/selune/), un être de lumière et de création, et Shar, une puissance des ténèbres et de la destruction. L'existence de Shar est donc paradoxalement liée au vide embrumé qui régnait avant qu'Ao n'entame sa création. En 1385, à la mort de Mystra, c'est elle qui combine le plan des Ombres et celui de l'Énergie Négative pour créer la Griseombre [[Plans Matériel]]
+
+Les batailles incessantes de Shar contre sa sœur lumineuse ont provoqué la naissance et la mort de nombreuses divinités à travers l'histoire. Alors que Séluné frappe à découvert et avec force sa jumelle chaque fois qu'elle le peut, Shar, elle, préfère la subversion, utilisant ses adorateurs mortels pour attaquer le clergé de Séluné et ceux qui lui sont chers, plutôt que la divinité elle-même. Mais il lui arrive aussi d'agir directement contre des ennemis mineurs. L'amour de Shar pour les endroits sombres explique ses conflits fréquents avec les divinités de la lumière et du feu. Sa seule alliée habituelle est Talona, qui pourrait éventuellement servir Shar en l'échange de son aide dans l'assassinat de son ennemie jurée, Loviatar.
+
+### Clergé et temples
+
+Ne révélez des secrets qu'aux autres fidèles. Ne vous laissez jamais aller à l'espoir ou aux promesses de réussite. Étouffez la lumière de la lune (les agents et les objets consacrés à Séluné) lorsque vous y êtes confronté et cachez-vous si vous ne pouvez l'emporter. Les ténèbres sont propices à l'action, pas à l'attente. Il est interdit de tenter d'améliorer ses conditions de vie ou de faire des plans sur le futur excepté sous la surveillance de fidèles de la Déesse Sombre. Fréquenter les fidèles de divinités bienveillantes est un péché, sauf s'il s'agit de les corrompre ou d'en obtenir quelque chose pour le bien du culte. Obéissez aux supérieurs du clergé ou périssez aussitôt.
+
+L'Église de Shar est organisée en cellules indépendantes qui sont dirigées d'une main de fer par leur chef. Peu de fidèles connaissent le véritable nom des autres membres de leur propre cellule, et quasiment personne ne connaît celui des dirigeants des structures régionales. Dans les endroits où le culte de Shar est important, les vagues d'assassinats de sélunites sont fréquentes. Cela limite la taille de l'Église, puisque beaucoup de fidèles de Shar meurent lors de ces attaques ou sont mis à mort par les autorités peu de temps après. Les temples de Shar ont une apparence variable mais sont toujours dissimulés sous la couverture d'un commerce ou d'une habitation. La plupart ont au moins une salle baignée dans des ténèbres profondes, qui est utilisée pour les cérémonies secrètes et les meurtres rituels.
+
+Le clergé de Shar se délecte des secrets. Dans les nations civilisées, il établit fréquemment des cercles, des clubs ou encore de fausses sectes afin de corrompre plus efficacement les fondations de la société bien élevée. Les fidèles travaillent au renversement de gouvernements, à encourager la vengeance, à organiser des cabales et à fomenter les troubles par la calomnie et la sédition. Les disciples de Shar pensent que la seule chose importante est la liberté de vivre selon ses propres principes, et que l'État n'existe que pour limiter les libertés et qu'il est donc une institution intrinsèquement immorale qui doit être détruite. Selon eux, tout mérite de périr et leur unique devoir est d'aider ce processus de destruction. Les prêtres de Shar prient la nuit. Puisque la plupart de ses adorateurs doivent garder secret leur dévotion, la religion n'a qu'un jour sacré dans l'année. Pendant le Festival de la lune, les fidèles de Shar célèbrent l'Ascension des ténèbres, quand les chefs des sectes locales découvrent les sombres complots de l'année à venir dans les entrailles sanglantes d'une créature tout juste sacrifiée.
 
 
 ![[Pasted image 20251226023332.png]]

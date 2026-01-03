@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f718a591255e3f49",
+        "id": "167afcb7c71f8dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "e3b2615763af8751",
+            "id": "df9072141fe09479",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dieux/Panthéon.canvas",
-                "viewState": {
-                  "x": -511.5,
-                  "y": 555,
-                  "zoom": -3.8994457834473537
-                }
+                "file": "Classes/work in progess ne pas utiliser/Disciplines 🤖📝 et moi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Panthéon"
+              "icon": "lucide-file",
+              "title": "Disciplines 🤖📝 et moi"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dieux/Panthéon.canvas",
+                "file": "Classes/work in progess ne pas utiliser/Disciplines 🤖📝 et moi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Panthéon"
+              "title": "Rétrolien pour Disciplines 🤖📝 et moi"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dieux/Panthéon.canvas",
+                "file": "Classes/work in progess ne pas utiliser/Disciplines 🤖📝 et moi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Panthéon"
+              "title": "Liens sortants de Disciplines 🤖📝 et moi"
             }
           },
           {
@@ -159,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dieux/Panthéon.canvas",
+                "file": "Jeu/EXP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Panthéon"
+              "title": "Plan de EXP"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -186,6 +184,56 @@
       "bases:Create new base": false
     }
   },
-  "active": "40d5c0cf8cc3886e",
-  "lastOpenFiles": []
+  "active": "df9072141fe09479",
+  "lastOpenFiles": [
+    "Classes/Rôdeur/Rôdeur.md",
+    "Classes.md",
+    "Classes/Roublard/Roublard.md",
+    "Classes/Paladin/Paladin.md",
+    "Classes/Occultiste/Occultiste.md",
+    "Classes/Moine/Moine.md",
+    "Classes/Guerrier/Guerrier.md",
+    "Classes/Ensorceleur/Ensorceleur.md",
+    "Classes/Druide/Druide.md",
+    "Classes/work in progess ne pas utiliser/Dilettante 🤖📝et moi.md",
+    "Classes/Clerc/Clerc.md",
+    "Classes/Barde/Barde.md",
+    "Classes/Barbare/Barbare.md",
+    "Classes/Magicien/Magicien.md",
+    "Race/Humain.md",
+    "Partie/PNJ/Grim Bonotsk.md",
+    "Race/A compléter quand j'aurais pas la flm.md",
+    "Race/Petite-gens - costaud.md",
+    "Sans titre.base",
+    "Classes/Roublard/Sous Classe Arcane Trickster.md",
+    "Classes/Paladin/L’Oathbreaker.md",
+    "Classes/Barbare/Sous Classe Voie de l’arbre-monde.md",
+    "Classes/Artificier/Artificier.md",
+    "Classes/Classe.md",
+    "Race/Wemic.md",
+    "Race/Triton.md",
+    "Race/Tortue.md",
+    "Image/Pasted image 20251231063828.png",
+    "Image/Pasted image 20251231065213.png",
+    "Image/Pasted image 20251231072740.png",
+    "Image/Pasted image 20251231072724.png",
+    "Image/Pasted image 20251231070058.png",
+    "Image/Pasted image 20251231070037.png",
+    "Image/Pasted image 20251231070027.png",
+    "Image/Pasted image 20251231070015.png",
+    "Image/Pasted image 20251231065953.png",
+    "Image/Pasted image 20251231065941.png",
+    "Classes/work in progess ne pas utiliser",
+    "Sans titre.canvas",
+    "Partie/PNJ",
+    "Partie/Synopsis",
+    "Partie",
+    "Image",
+    "Plan d'existence/Plan Spécifique",
+    "Plan d'existence/Plans d'existences.canvas",
+    "Jeu/Fiche/Personnage",
+    "Bestiaire/Bestiaire personnalisé",
+    "Bestiaire/Bestiaire classique",
+    "Dieux/Panthéon.canvas"
+  ]
 }
