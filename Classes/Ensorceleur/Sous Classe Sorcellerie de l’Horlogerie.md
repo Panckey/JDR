@@ -13,12 +13,13 @@ Lorsque vous atteignez les niveaux d’Ensorceleur indiqués, vous avez _toujou
 
 ##### **Sorts d’Horlogerie**
 
-|Niveau de l’Ensorceleur|Sorts|
-|---|---|
-|**3**|_Aid_, _Alarm_, _Lesser Restoration_, _Protection from Evil and Good_|
-|**5**|_Dispel Magic_, _Protection from Energy_|
-|**7**|_Freedom of Movement_, _Summon Construct_|
-|**9**|_Greater Restoration_, _Wall of Force_|
+| Niveau de l’Ensorceleur | Sorts                                                                 |
+| ----------------------- | --------------------------------------------------------------------- |
+| **3**                   | _Aid_, _Alarm_, _Lesser Restoration_, _Protection from Evil and Good_ |
+| **5**                   | _Dispel Magic_, _Protection from Energy_                              |
+| **7**                   | _Freedom of Movement_, _Summon Construct_                             |
+| **9**                   | _Greater Restoration_, _Wall of Force_                                |
+
 
 En plus, consultez la table ci-dessous pour déterminer comment votre lien avec l’ordre se manifeste lorsque vous lancez un sort d’Ensorceleur.
 
