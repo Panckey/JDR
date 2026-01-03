@@ -11,6 +11,7 @@ https://donjonetdragon.fr/ressources/feuille-de-personnage/
 - **Race / Espèce** : donne des bonus (vision dans le noir, résistances, traits)
     
 - **Classe & niveau** : définit tes capacités (guerrier, magicien, etc.)
+- Sous classe niveau 3
     
 - **Historique** : passé du perso → compétences, outils, RP
     
@@ -41,6 +42,37 @@ Les 6 stats de base :
 - Exemple : 16 → +3
     
 
+## 🎲 **1. Méthode classique : 4d6, on enlève le plus bas (la plus courante)**
+
+👉 **La méthode la plus populaire et “old school”**
+
+**Étapes :**
+
+1. Lance **4 dés à 6 faces (4d6)**
+    
+2. Ignore **le plus petit résultat**
+    
+3. Additionne les **3 meilleurs dés** → score entre **3 et 18**
+    
+4. Répète **6 fois** pour obtenir 6 scores
+    
+5. Attribue ces scores librement à :
+    
+    - Force (FOR)
+        
+    - Dextérité (DEX)
+        
+    - Constitution (CON)
+        
+    - Intelligence (INT)
+        
+    - Sagesse (SAG)
+        
+    - Charisme (CHA)
+        
+
+📌 Exemple :  
+🎲 4d6 → **6, 5, 3, 1** → on enlève 1 → **14**
 ---
 
 ## ❤️ 3️⃣ Points de vie (PV)

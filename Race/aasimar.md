@@ -60,11 +60,6 @@ Vous avez une résistance aux dégâts nécrotiques et radiants, les deux forces
 ### Vision dans le noir
 
 Vous disposez d’une vision dans le noir d’une portée de 18 mètres, héritée de votre lien avec les plans supérieurs.
-
-### Résistance céleste
-
-Vous avez une résistance aux dégâts nécrotiques et radiants, les deux forces opposées issues du cycle de la lumière et de la mort.
-
 ### Alignement des Aasimar
 
 Loyal
