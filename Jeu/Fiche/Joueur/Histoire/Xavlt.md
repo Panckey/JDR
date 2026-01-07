@@ -4,6 +4,7 @@ Xavier avais une femme aimante, travaillais a l'eglise et profitais de la vie ma
 Il vénérait le Dieu [[Ilmater]]
 Compassion envers ce qu'il a perdu (Mère, enfant)
 Haine envers les gobelins
+Il était un [[Sous Classe Serment de Rédemption]] maintenant [[Sous Classe Le Paladin déchu — L’Oathbreaker]]
 # Idée
 
 Faire ressurgir son côté paternel ->  Bébé dragon (j'aime trop les dragon)
