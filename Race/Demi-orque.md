@@ -58,11 +58,11 @@ Les demi-orques tendent à être sérieux et protecteurs. Ils cherchent l'intég
 
 ---
 
-|   |   |   |   |
-|---|---|---|---|
-||**Âge de départ**|   |**Âge maximal  <br>(base + variable)**|
-||Base|Variable||
-|**Demi-orque**|12|1d4|60+1d20|
+|                |                   |          |                                        |
+| -------------- | ----------------- | -------- | -------------------------------------- |
+|                | **Âge de départ** |          | **Âge maximal  <br>(base + variable)** |
+|                | Base              | Variable |                                        |
+| **Demi-orque** | 12                | 1d4      | 60+1d20                                |
 
 **EFFETS DU VIEILLISSEMENT**
 
